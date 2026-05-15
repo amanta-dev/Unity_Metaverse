@@ -1,21 +1,21 @@
 {
   "headers": [
     {
-      "source": "/Build/WebGL.wasm",
+      "source": "/Build/WebGL.wasm.unityweb",
       "headers": [
         { "key": "Content-Type",     "value": "application/wasm" },
         { "key": "Content-Encoding", "value": "br" }
       ]
     },
     {
-      "source": "/Build/WebGL.data",
+      "source": "/Build/WebGL.data.unityweb",
       "headers": [
         { "key": "Content-Type",     "value": "application/octet-stream" },
         { "key": "Content-Encoding", "value": "br" }
       ]
     },
     {
-      "source": "/Build/WebGL.framework.js",
+      "source": "/Build/WebGL.framework.js.unityweb",
       "headers": [
         { "key": "Content-Type",     "value": "application/javascript" },
         { "key": "Content-Encoding", "value": "br" }
