@@ -1,5 +1,4 @@
 {
-  "outputDirectory": "WebGL",
   "headers": [
     {
       "source": "/Build/WebGL.wasm",
