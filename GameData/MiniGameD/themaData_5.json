@@ -11,72 +11,86 @@
     {
       "eng": "Artist",
       "imageURL": "./themaData_5/images/artist.jpg",
-      "soundURL": "./themaData_5/sounds/artist.mp3"
+      "soundURL": "./themaData_5/sounds/artist.mp3",
+      "youtubeURL": "https://www.youtube.com/@EnglishSingsing"
     },
     {
       "eng": "Carpenter",
       "imageURL": "./themaData_5/images/carpenter.jpg",
-      "soundURL": "./themaData_5/sounds/carpenter.mp3"
+      "soundURL": "./themaData_5/sounds/carpenter.mp3",
+      "youtubeURL": "https://www.youtube.com/@EnglishSingsing"
     },
     {
       "eng": "Cook",
       "imageURL": "./themaData_5/images/cook.jpg",
-      "soundURL": "./themaData_5/sounds/cook.mp3"
+      "soundURL": "./themaData_5/sounds/cook.mp3",
+      "youtubeURL": "https://www.youtube.com/@EnglishSingsing"
     },
     {
       "eng": "Doctor",
       "imageURL": "./themaData_5/images/doctor.jpg",
-      "soundURL": "./themaData_5/sounds/doctor.mp3"
+      "soundURL": "./themaData_5/sounds/doctor.mp3",
+      "youtubeURL": "https://www.youtube.com/@EnglishSingsing"
     },
     {
       "eng": "Engineer",
       "imageURL": "./themaData_5/images/engineer.jpg",
-      "soundURL": "./themaData_5/sounds/engineer.mp3"
+      "soundURL": "./themaData_5/sounds/engineer.mp3",
+      "youtubeURL": "https://www.youtube.com/@EnglishSingsing"
     },
     {
       "eng": "Farmer",
       "imageURL": "./themaData_5/images/farmer.jpg",
-      "soundURL": "./themaData_5/sounds/farmer.mp3"
+      "soundURL": "./themaData_5/sounds/farmer.mp3",
+      "youtubeURL": "https://www.youtube.com/@EnglishSingsing"
     },
     {
       "eng": "Fire fighter",
       "imageURL": "./themaData_5/images/fire_fighter.jpg",
-      "soundURL": "./themaData_5/sounds/fire_fighter.mp3"
+      "soundURL": "./themaData_5/sounds/fire_fighter.mp3",
+      "youtubeURL": "https://www.youtube.com/@EnglishSingsing"
     },
     {
       "eng": "Hairdresser",
       "imageURL": "./themaData_5/images/hairdresser.jpg",
-      "soundURL": "./themaData_5/sounds/hairdresser.mp3"
+      "soundURL": "./themaData_5/sounds/hairdresser.mp3",
+      "youtubeURL": "https://www.youtube.com/@EnglishSingsing"
     },
     {
       "eng": "Pilot",
       "imageURL": "./themaData_5/images/pilot.jpg",
-      "soundURL": "./themaData_5/sounds/pilot.mp3"
+      "soundURL": "./themaData_5/sounds/pilot.mp3",
+      "youtubeURL": "https://www.youtube.com/@EnglishSingsing"
     },
     {
       "eng": "Police officer",
       "imageURL": "./themaData_5/images/police_officer.jpg",
-      "soundURL": "./themaData_5/sounds/police_officer.mp3"
+      "soundURL": "./themaData_5/sounds/police_officer.mp3",
+      "youtubeURL": "https://www.youtube.com/@EnglishSingsing"
     },
     {
       "eng": "Scientist",
       "imageURL": "./themaData_5/images/scientist.jpg",
-      "soundURL": "./themaData_5/sounds/scientist.mp3"
+      "soundURL": "./themaData_5/sounds/scientist.mp3",
+      "youtubeURL": "https://www.youtube.com/@EnglishSingsing"
     },
     {
       "eng": "Singer",
       "imageURL": "./themaData_5/images/singer.jpg",
-      "soundURL": "./themaData_5/sounds/singer.mp3"
+      "soundURL": "./themaData_5/sounds/singer.mp3",
+      "youtubeURL": "https://www.youtube.com/@EnglishSingsing"
     },
     {
       "eng": "Teacher",
       "imageURL": "./themaData_5/images/teacher.jpg",
-      "soundURL": "./themaData_5/sounds/teacher.mp3"
+      "soundURL": "./themaData_5/sounds/teacher.mp3",
+      "youtubeURL": "https://www.youtube.com/@EnglishSingsing"
     },
     {
       "eng": "Vet",
       "imageURL": "./themaData_5/images/vet.jpg",
-      "soundURL": "./themaData_5/sounds/vet.mp3"
+      "soundURL": "./themaData_5/sounds/vet.mp3",
+      "youtubeURL": "https://www.youtube.com/@EnglishSingsing"
     }
   ]
 }
