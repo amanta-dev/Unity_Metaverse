@@ -10,70 +10,70 @@
     {
       "thema": "Food",
       "themaImageURL": "./themaData_1/images/themaBtn.png",
-      "themaDataURL": "./themaData_0.json",
+      "themaDataURL": "./themaData_1.json",
       "locked": true, 
       "lockType": "dev"
     },
     {
       "thema": "Fruit & Vegetables",
       "themaImageURL": "./themaData_2/images/themaBtn.png",
-      "themaDataURL": "./themaData_0.json",
+      "themaDataURL": "./themaData_2.json",
       "locked": true, 
       "lockType": "premium"
     },
     {
       "thema": "Transportation",
       "themaImageURL": "./themaData_3/images/themaBtn.png",
-      "themaDataURL": "./themaData_0.json",
+      "themaDataURL": "./themaData_3.json",
       "locked": true, 
       "lockType": "premium"
     },
     {
       "thema": "Feelings",
       "themaImageURL": "./themaData_4/images/themaBtn.png",
-      "themaDataURL": "./themaData_0.json",
+      "themaDataURL": "./themaData_4.json",
       "locked": true, 
       "lockType": "premium"
     },
     {
       "thema": "Job",
       "themaImageURL": "./themaData_5/images/themaBtn.png",
-      "themaDataURL": "./themaData_0.json",
+      "themaDataURL": "./themaData_5.json",
       "locked": true, 
       "lockType": "premium"
     },
     {
       "thema": "Town",
       "themaImageURL": "./themaData_6/images/themaBtn.png",
-      "themaDataURL": "./themaData_0.json",
+      "themaDataURL": "./themaData_6.json",
       "locked": true, 
       "lockType": "premium"
     },
     {
       "thema": "Family",
       "themaImageURL": "./themaData_7/images/themaBtn.png",
-      "themaDataURL": "./themaData_0.json",
+      "themaDataURL": "./themaData_7.json",
       "locked": true, 
       "lockType": "premium"
     },
     {
       "thema": "Shape",
       "themaImageURL": "./themaData_8/images/themaBtn.png",
-      "themaDataURL": "./themaData_0.json",
+      "themaDataURL": "./themaData_8.json",
       "locked": true, 
       "lockType": "premium"
     },
     {
       "thema": "Body",
       "themaImageURL": "./themaData_9/images/themaBtn.png",
-      "themaDataURL": "./themaData_0.json",
+      "themaDataURL": "./themaData_9.json",
       "locked": true, 
       "lockType": "premium"
     },
     {
       "thema": "Number",
       "themaImageURL": "./themaData_10/images/themaBtn.png",
-      "themaDataURL": "./themaData_0.json",
+      "themaDataURL": "./themaData_0.themaData_10",
       "locked": true, 
       "lockType": "premium"
     }
