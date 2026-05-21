@@ -9,10 +9,134 @@
   },
   "lists": [
     {
-      "eng": "Bee",
-      "imageURL": "./themaData_0/images/bee.jpg",
-      "soundURL": "./themaData_0/sounds/bee.mp3",
-      "youtubeURL": "https://youtu.be/9DudksqYoWw"
+      "items": [
+        {
+          "question": "_____ morning, everyone.",
+          "answer": "Good",
+          "soundURL": "./themaData_0/sounds/Daily Life1_01.mp3"
+        },
+        {
+          "question": "How are you today, Ms. Riley?",
+          "answer": "Good, thanks. How are you?",
+          "soundURL": "./themaData_0/sounds/Daily Life1_02.mp3"
+        },
+        {
+          "question": "Hello. Nice to meet you. My name is Chloe. ",
+          "answer": "Hello, Chloe. Nice to meet you, too.",
+          "soundURL": "./themaData_0/sounds/Daily Life1_03.mp3"
+        },
+        {
+          "question": "Hello. _____ to meet you. My name is Chloe. ",
+          "answer": "Nice",
+          "soundURL": "./themaData_0/sounds/Daily Life1_04.mp3"
+        }
+      ],
+      "youtubeURL": "https://youtu.be/Jlh6PlM-6Kk"
+    },
+    {
+      "items": [
+        {
+          "question": "This is the music room. ",
+          "answer": "Wow! They sing well.",
+          "soundURL": "./themaData_0/sounds/Daily Life1_05.mp3"
+        },
+        {
+          "question": "That’s the school library. ",
+          "answer": "Wow! There are many books!",
+          "soundURL": "./themaData_0/sounds/Daily Life1_06.mp3"
+        },
+        {
+          "question": "Good _______, everyone.",
+          "answer": "afternoon",
+          "soundURL": "./themaData_0/sounds/Daily Life1_07.mp3"
+        }
+      ],
+      "youtubeURL": "https://youtu.be/fv-Ntz79rpI"
+    },
+    {
+      "items": [
+        {
+          "question": "Dad, this is my friend Chloe. Chloe, _____ is my dad. ",
+          "answer": "this",
+          "soundURL": "./themaData_0/sounds/Daily Life1_08.mp3"
+        },
+        {
+          "question": "Nice to meet you, Chloe.",
+          "answer": "Nice to meet you, too.",
+          "soundURL": "./themaData_0/sounds/Daily Life1_09.mp3"
+        },
+        {
+          "question": "Goodbye, Chloe. See you tomorrow.",
+          "answer": "Goodbye, Leo.",
+          "soundURL": "./themaData_0/sounds/Daily Life1_10.mp3"
+        }
+      ],
+      "youtubeURL": "https://youtu.be/5mNRfdFr7WM"
+    },
+    {
+      "items": [
+        {
+          "question": "What's this?",
+          "answer": "It's a book.",
+          "soundURL": "./themaData_0/sounds/Daily Life1_11.mp3"
+        },
+        {
+          "question": "____ this?",
+          "answer": "What's",
+          "soundURL": "./themaData_0/sounds/Daily Life1_12.mp3"
+        }
+      ],
+      "youtubeURL": "https://youtu.be/E8FcyC7pzxc"
+    },
+    {
+      "items": [
+        {
+          "question": "You look sad. Are you okay?",
+          "answer": "No, I’m sad. ",
+          "soundURL": "./themaData_0/sounds/Daily Life1_13.mp3"
+        },
+        {
+          "question": "Are you ____?",
+          "answer": "okay",
+          "soundURL": "./themaData_0/sounds/Daily Life1_14.mp3"
+        },
+        {
+          "question": "Are you happy?",
+          "answer": "Yes, I’m very happy. Thank you.",
+          "soundURL": "./themaData_0/sounds/Daily Life1_15.mp3"
+        }
+      ],
+      "youtubeURL": "https://youtu.be/YbpvpX9ti0Q "
+    },
+    {
+      "items": [
+        {
+          "question": "I’m _____. Are you okay?",
+          "answer": "sorry",
+          "soundURL": "./themaData_0/sounds/Daily Life1_16.mp3"
+        },
+        {
+          "question": "Is that your ruler?",
+          "answer": "Yes, it is.",
+          "soundURL": "./themaData_0/sounds/Daily Life1_17.mp3"
+        },
+        {
+          "question": "Bye. See you _________.",
+          "answer": "tomorrow",
+          "soundURL": "./themaData_0/sounds/Daily Life1_18.mp3"
+        },
+        {
+          "question": "Watch out!",
+          "answer": "I’m sorry. Are you okay?",
+          "soundURL": "./themaData_0/sounds/Daily Life1_19.mp3"
+        },
+        {
+          "question": "______ out!",
+          "answer": "Watch",
+          "soundURL": "./themaData_0/sounds/Daily Life1_20.mp3"
+        }
+      ],
+      "youtubeURL": "https://youtu.be/7jJEK6wokdo"
     }
   ]
 }

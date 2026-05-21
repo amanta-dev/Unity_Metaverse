@@ -1,7 +1,7 @@
 {
   "themaLists": [
     {
-      "thema": "Animal",
+      "thema": "Daily Life1",
       "themaImageURL": "./themaData_0/images/themaBtn.png",
       "themaDataURL": "./themaData_0.json",
       "locked": false, 
