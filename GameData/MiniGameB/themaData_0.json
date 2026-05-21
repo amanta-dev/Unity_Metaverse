@@ -1,0 +1,18 @@
+{
+  "themaBgURL": "./themaData_0/images/themaBg.png",
+  "themaIcon": {
+    "URL": "./themaData_0/images/themaIcon.png",
+    "data": {
+      "w": "381",
+      "h": "204"
+    }
+  },
+  "lists": [
+    {
+      "eng": "Bee",
+      "imageURL": "./themaData_0/images/bee.jpg",
+      "soundURL": "./themaData_0/sounds/bee.mp3",
+      "youtubeURL": "https://youtu.be/9DudksqYoWw"
+    }
+  ]
+}

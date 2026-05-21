@@ -1,0 +1,12 @@
+{
+  "themaLists": [
+    {
+      "thema": "Animal",
+      "themaImageURL": "./themaData_0/images/themaBtn.png",
+      "themaDataURL": "./themaData_0.json",
+      "locked": false, 
+      "lockType": "",
+      "isPremium": false
+    }
+  ]
+}
