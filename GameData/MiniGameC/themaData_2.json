@@ -24,7 +24,12 @@
           "question": "Are you ________?",
           "answer": "ready",
           "soundURL": "./themaData_2/sounds/Daily_Life3_03.mp3"
-        },
+        }
+      ],
+      "youtubeURL": "https://www.youtube.com/playlist?list=PLii5rkhsE0Ld3xCgxG6j5fw7RlG2S5czO"
+    },
+    {
+      "items": [
         {
           "question": "Let's go home.",
           "answer": "Please wait for me.",
@@ -34,52 +39,42 @@
           "question": "It's late. It's time for bed.",
           "answer": "Okay. Good night, Mom and Dad.",
           "soundURL": "./themaData_2/sounds/Daily_Life3_05.mp3"
-        }
-      ],
-      "youtubeURL": ""
-    },
-    {
-      "items": [
+        },
         {
           "question": "How old are you?",
           "answer": "I'm five.",
           "soundURL": "./themaData_2/sounds/Daily_Life3_06.mp3"
-        },
+        }
+      ],
+      "youtubeURL": "https://www.youtube.com/playlist?list=PLii5rkhsE0Ld3xCgxG6j5fw7RlG2S5czO"
+    },
+    {
+      "items": [
         {
           "question": "How ____ are you?",
           "answer": "old",
           "soundURL": "./themaData_2/sounds/Daily_Life3_07.mp3"
-        }
-      ],
-      "youtubeURL": ""
-    },
-    {
-      "items": [
+        },
         {
           "question": "______  _____ your coat, please.",
           "answer": "Put on",
           "soundURL": "./themaData_2/sounds/Daily_Life3_08.mp3"
-        }
-      ],
-      "youtubeURL": ""
-    },
-    {
-      "items": [
+        },
         {
           "question": "What day is it today?",
           "answer": "It's Wednesday.",
           "soundURL": "./themaData_2/sounds/Daily_Life3_09.mp3"
-        },
+        }
+      ],
+      "youtubeURL": "https://www.youtube.com/playlist?list=PLii5rkhsE0Ld3xCgxG6j5fw7RlG2S5czO"
+    },
+    {
+      "items": [
         {
           "question": "Can you play baseball this afternoon?",
           "answer": "Sorry, I can't. I have a piano lesson.",
           "soundURL": "./themaData_2/sounds/Daily_Life3_10.mp3"
-        }
-      ],
-      "youtubeURL": ""
-    },
-    {
-      "items": [
+        },
         {
           "question": "It's three o'clock! Let's _____ outside!",
           "answer": "play",
@@ -89,17 +84,17 @@
           "question": "_______ is my music book?",
           "answer": "Where",
           "soundURL": "./themaData_2/sounds/Daily_Life3_12.mp3"
-        },
+        }
+      ],
+      "youtubeURL": "https://www.youtube.com/playlist?list=PLii5rkhsE0Ld3xCgxG6j5fw7RlG2S5czO"
+    },
+    {
+      "items": [
         {
           "question": "Where is my pencil?",
           "answer": "Oh, it's under the table.",
           "soundURL": "./themaData_2/sounds/Daily_Life3_13.mp3"
-        }
-      ],
-      "youtubeURL": ""
-    },
-    {
-      "items": [
+        },
         {
           "question": "Mom, where is my cap?",
           "answer": "It's in your bag.",
@@ -111,7 +106,7 @@
           "soundURL": "./themaData_2/sounds/Daily_Life3_15.mp3"
         }
       ],
-      "youtubeURL": ""
+      "youtubeURL": "https://www.youtube.com/playlist?list=PLii5rkhsE0Ld3xCgxG6j5fw7RlG2S5czO"
     },
     {
       "items": [
@@ -124,17 +119,17 @@
           "question": "Let's sing a song together!",
           "answer": "Sorry, I can't sing well.",
           "soundURL": "./themaData_2/sounds/Daily_Life3_17.mp3"
-        }
-      ],
-      "youtubeURL": ""
-    },
-    {
-      "items": [
+        },
         {
           "question": "Are you ready for the Christmas party?",
           "answer": "Yes, here are the presents.",
           "soundURL": "./themaData_2/sounds/Daily_Life3_18.mp3"
-        },
+        }
+      ],
+      "youtubeURL": "https://www.youtube.com/playlist?list=PLii5rkhsE0Ld3xCgxG6j5fw7RlG2S5czO"
+    },
+    {
+      "items": [
         {
           "question": "Put on your gloves, too.",
           "answer": "Oh, they're not mine.",
@@ -151,7 +146,7 @@
           "soundURL": "./themaData_2/sounds/Daily_Life3_21.mp3"
         }
       ],
-      "youtubeURL": ""
+      "youtubeURL": "https://www.youtube.com/playlist?list=PLii5rkhsE0Ld3xCgxG6j5fw7RlG2S5czO"
     }
   ]
 }

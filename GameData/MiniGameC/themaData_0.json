@@ -31,7 +31,7 @@
           "soundURL": "./themaData_0/sounds/Daily_Life1_04.mp3"
         }
       ],
-      "youtubeURL": "https://youtu.be/Jlh6PlM-6Kk"
+      "youtubeURL": "https://www.youtube.com/playlist?list=PLii5rkhsE0Ld3xCgxG6j5fw7RlG2S5czO"
     },
     {
       "items": [
@@ -49,17 +49,17 @@
           "question": "Good _______, everyone.",
           "answer": "afternoon",
           "soundURL": "./themaData_0/sounds/Daily_Life1_07.mp3"
-        }
-      ],
-      "youtubeURL": "https://youtu.be/fv-Ntz79rpI"
-    },
-    {
-      "items": [
+        },
         {
           "question": "Dad, this is my friend Chloe. Chloe, _____ is my dad. ",
           "answer": "this",
           "soundURL": "./themaData_0/sounds/Daily_Life1_08.mp3"
-        },
+        }
+      ],
+      "youtubeURL": "https://www.youtube.com/playlist?list=PLii5rkhsE0Ld3xCgxG6j5fw7RlG2S5czO"
+    },
+    {
+      "items": [
         {
           "question": "Nice to meet you, Chloe.",
           "answer": "Nice to meet you, too.",
@@ -69,12 +69,7 @@
           "question": "Goodbye, Chloe. See you tomorrow.",
           "answer": "Goodbye, Leo.",
           "soundURL": "./themaData_0/sounds/Daily_Life1_10.mp3"
-        }
-      ],
-      "youtubeURL": "https://youtu.be/5mNRfdFr7WM"
-    },
-    {
-      "items": [
+        },
         {
           "question": "What's this?",
           "answer": "It's a book.",
@@ -86,7 +81,7 @@
           "soundURL": "./themaData_0/sounds/Daily_Life1_12.mp3"
         }
       ],
-      "youtubeURL": "https://youtu.be/E8FcyC7pzxc"
+      "youtubeURL": "https://www.youtube.com/playlist?list=PLii5rkhsE0Ld3xCgxG6j5fw7RlG2S5czO"
     },
     {
       "items": [
@@ -104,17 +99,17 @@
           "question": "Are you happy?",
           "answer": "Yes, I’m very happy. Thank you.",
           "soundURL": "./themaData_0/sounds/Daily_Life1_15.mp3"
-        }
-      ],
-      "youtubeURL": "https://youtu.be/YbpvpX9ti0Q "
-    },
-    {
-      "items": [
+        },
         {
           "question": "I’m _____. Are you okay?",
           "answer": "sorry",
           "soundURL": "./themaData_0/sounds/Daily_Life1_16.mp3"
-        },
+        }
+      ],
+      "youtubeURL": "https://www.youtube.com/playlist?list=PLii5rkhsE0Ld3xCgxG6j5fw7RlG2S5czO"
+    },
+    {
+      "items": [
         {
           "question": "Is that your ruler?",
           "answer": "Yes, it is.",
@@ -136,7 +131,7 @@
           "soundURL": "./themaData_0/sounds/Daily_Life1_20.mp3"
         }
       ],
-      "youtubeURL": "https://youtu.be/7jJEK6wokdo"
+      "youtubeURL": "https://www.youtube.com/playlist?list=PLii5rkhsE0Ld3xCgxG6j5fw7RlG2S5czO"
     }
   ]
 }

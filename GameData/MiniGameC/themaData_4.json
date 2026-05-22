@@ -24,17 +24,17 @@
           "question": "How ______ bears are there?",
           "answer": "many",
           "soundURL": ""
-        },
+        }
+      ],
+      "youtubeURL": "https://www.youtube.com/playlist?list=PLii5rkhsE0Ld3xCgxG6j5fw7RlG2S5czO"
+    },
+    {
+      "items": [
         {
           "question": "How many tigers are there?",
           "answer": "One, two, three, four, five. Five tigers.",
           "soundURL": ""
-        }
-      ],
-      "youtubeURL": ""
-    },
-    {
-      "items": [
+        },
         {
           "question": "Let's play _____.",
           "answer": "outside",
@@ -44,7 +44,12 @@
           "question": "Look! It's snowing.",
           "answer": "It's all white.",
           "soundURL": ""
-        },
+        }
+      ],
+      "youtubeURL": "https://www.youtube.com/playlist?list=PLii5rkhsE0Ld3xCgxG6j5fw7RlG2S5czO"
+    },
+    {
+      "items": [
         {
           "question": "Do you like snow?",
           "answer": "Yes, I do.",
@@ -61,7 +66,7 @@
           "soundURL": ""
         }
       ],
-      "youtubeURL": ""
+      "youtubeURL": "https://www.youtube.com/playlist?list=PLii5rkhsE0Ld3xCgxG6j5fw7RlG2S5czO"
     },
     {
       "items": [
@@ -79,7 +84,12 @@
           "question": "How's the weather there?",
           "answer": "It's rainy.",
           "soundURL": ""
-        },
+        }
+      ],
+      "youtubeURL": "https://www.youtube.com/playlist?list=PLii5rkhsE0Ld3xCgxG6j5fw7RlG2S5czO"
+    },
+    {
+      "items": [
         {
           "question": "I'm ___ Hawaii.",
           "answer": "in",
@@ -96,7 +106,7 @@
           "soundURL": ""
         }
       ],
-      "youtubeURL": ""
+      "youtubeURL": "https://www.youtube.com/playlist?list=PLii5rkhsE0Ld3xCgxG6j5fw7RlG2S5czO"
     },
     {
       "items": [
@@ -116,7 +126,7 @@
           "soundURL": ""
         }
       ],
-      "youtubeURL": ""
+      "youtubeURL": "https://www.youtube.com/playlist?list=PLii5rkhsE0Ld3xCgxG6j5fw7RlG2S5czO"
     }
   ]
 }

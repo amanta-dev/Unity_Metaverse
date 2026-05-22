@@ -24,7 +24,12 @@
           "question": "What color is your umbrella?",
           "answer": "It's green and white.",
           "soundURL": "./themaData_3/sounds/Daily_Life4_03.mp3"
-        },
+        }
+      ],
+      "youtubeURL": "https://www.youtube.com/playlist?list=PLii5rkhsE0Ld3xCgxG6j5fw7RlG2S5czO"
+    },
+    {
+      "items": [
         {
           "question": "Is this yours?",
           "answer": "Yes, it's mine.",
@@ -34,17 +39,17 @@
           "question": "No, it's ___.",
           "answer": "not",
           "soundURL": "./themaData_3/sounds/Daily_Life4_05.mp3"
-        }
-      ],
-      "youtubeURL": ""
-    },
-    {
-      "items": [
+        },
         {
           "question": "I'm jumping.",
           "answer": "Wow, you're jumping high.",
           "soundURL": "./themaData_3/sounds/Daily_Life4_06.mp3"
-        },
+        }
+      ],
+      "youtubeURL": "https://www.youtube.com/playlist?list=PLii5rkhsE0Ld3xCgxG6j5fw7RlG2S5czO"
+    },
+    {
+      "items": [
         {
           "question": "What are they doing?",
           "answer": "They are dancing.",
@@ -54,27 +59,22 @@
           "question": "What are they _______?",
           "answer": "doing",
           "soundURL": "./themaData_3/sounds/Daily_Life4_08.mp3"
-        }
-      ],
-      "youtubeURL": ""
-    },
-    {
-      "items": [
+        },
         {
           "question": "What's he doing?",
           "answer": "He's dancing.",
           "soundURL": "./themaData_3/sounds/Daily_Life4_09.mp3"
-        },
+        }
+      ],
+      "youtubeURL": "https://www.youtube.com/playlist?list=PLii5rkhsE0Ld3xCgxG6j5fw7RlG2S5czO"
+    },
+    {
+      "items": [
         {
           "question": "What's she doing?",
           "answer": "She's jogging.",
           "soundURL": "./themaData_3/sounds/Daily_Life4_10.mp3"
-        }
-      ],
-      "youtubeURL": ""
-    },
-    {
-      "items": [
+        },
         {
           "question": "I'm a firefighter.",
           "answer": "I put out fires.",
@@ -84,7 +84,12 @@
           "question": "I'm a cook.",
           "answer": "I make delicious foods.",
           "soundURL": "./themaData_3/sounds/Daily_Life4_12.mp3"
-        },
+        }
+      ],
+      "youtubeURL": "https://www.youtube.com/playlist?list=PLii5rkhsE0Ld3xCgxG6j5fw7RlG2S5czO"
+    },
+    {
+      "items": [
         {
           "question": "I'm a doctor.",
           "answer": "I help sick people.",
@@ -94,17 +99,17 @@
           "question": "I'm a farmer.",
           "answer": "I grow vegetables.",
           "soundURL": "./themaData_3/sounds/Daily_Life4_14.mp3"
-        }
-      ],
-      "youtubeURL": ""
-    },
-    {
-      "items": [
+        },
         {
           "question": "Hello. Can I _____ to Lily, please?",
           "answer": "speak",
           "soundURL": "./themaData_3/sounds/Daily_Life4_15.mp3"
-        },
+        }
+      ],
+      "youtubeURL": "https://www.youtube.com/playlist?list=PLii5rkhsE0Ld3xCgxG6j5fw7RlG2S5czO"
+    },
+    {
+      "items": [
         {
           "question": "Hi. This is Mia.",
           "answer": "Hi, Mia. What's up?",
@@ -119,17 +124,17 @@
           "question": "_____ we visit her together?",
           "answer": "Shall",
           "soundURL": "./themaData_3/sounds/Daily_Life4_18.mp3"
-        },
+        }
+      ],
+      "youtubeURL": "https://www.youtube.com/playlist?list=PLii5rkhsE0Ld3xCgxG6j5fw7RlG2S5czO"
+    },
+    {
+      "items": [
         {
           "question": "Let's _____ at the bus stop.",
           "answer": "meet",
           "soundURL": "./themaData_3/sounds/Daily_Life4_19.mp3"
-        }
-      ],
-      "youtubeURL": ""
-    },
-    {
-      "items": [
+        },
         {
           "question": "Sorry, she's not _____. Who's calling?",
           "answer": "here",
@@ -146,7 +151,7 @@
           "soundURL": "./themaData_3/sounds/Daily_Life4_22.mp3"
         }
       ],
-      "youtubeURL": ""
+      "youtubeURL": "https://www.youtube.com/playlist?list=PLii5rkhsE0Ld3xCgxG6j5fw7RlG2S5czO"
     }
   ]
 }
