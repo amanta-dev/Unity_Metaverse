@@ -1,0 +1,117 @@
+{
+  "themaBgURL": "./themaData_7/images/themaBg.png",
+  "themaIcon": {
+    "URL": "./themaData_7/images/themaIcon.png",
+    "data": {
+      "w": "381",
+      "h": "204"
+    }
+  },
+  "lists": [
+    {
+      "items": [
+        {
+          "question": "Mom, I want to ____ ice cream.",
+          "answer": "eat",
+          "soundURL": ""
+        },
+        {
+          "question": "Where is the ice cream shop?",
+          "answer": "It's next to the supermarket.",
+          "soundURL": ""
+        },
+        {
+          "question": "_____ is the restroom?",
+          "answer": "Where",
+          "soundURL": ""
+        }
+      ],
+      "youtubeURL": ""
+    },
+    {
+      "items": [
+        {
+          "question": "Can you _____ me?",
+          "answer": "help",
+          "soundURL": ""
+        },
+        {
+          "question": "Please ____ this letter to the post office.",
+          "answer": "take",
+          "soundURL": ""
+        },
+        {
+          "question": "________ the post office?",
+          "answer": "Where's",
+          "soundURL": ""
+        },
+        {
+          "question": "_________ me. Where is the post office?",
+          "answer": "Excuse",
+          "soundURL": ""
+        }
+      ],
+      "youtubeURL": ""
+    },
+    {
+      "items": [
+        {
+          "question": "I have science homework.",
+          "answer": "Me, too.",
+          "soundURL": ""
+        },
+        {
+          "question": "Where's the science museum?",
+          "answer": "I don't know. Let's ask for help.",
+          "soundURL": ""
+        },
+        {
+          "question": "Thank you very much.",
+          "answer": "You're welcome.",
+          "soundURL": ""
+        }
+      ],
+      "youtubeURL": ""
+    },
+    {
+      "items": [
+        {
+          "question": "Where are you going?",
+          "answer": "I'm going to the library.",
+          "soundURL": ""
+        },
+        {
+          "question": "Can you show me first?",
+          "answer": "Sure!",
+          "soundURL": ""
+        }
+      ],
+      "youtubeURL": ""
+    },
+    {
+      "items": [
+        {
+          "question": "Do you _____ where Rora is?",
+          "answer": "know",
+          "soundURL": ""
+        },
+        {
+          "question": "Excuse me. I'm looking for my little sister.",
+          "answer": "Okay. Don't worry. What's her name?",
+          "soundURL": ""
+        },
+        {
+          "question": "What does she look like?",
+          "answer": "She has short curly hair.",
+          "soundURL": ""
+        },
+        {
+          "question": "What does she _____ like?",
+          "answer": "look",
+          "soundURL": ""
+        }
+      ],
+      "youtubeURL": ""
+    }
+  ]
+}

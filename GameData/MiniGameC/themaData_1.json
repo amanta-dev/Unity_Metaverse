@@ -1,0 +1,167 @@
+{
+  "themaBgURL": "./themaData_1/images/themaBg.png",
+  "themaIcon": {
+    "URL": "./themaData_1/images/themaIcon.png",
+    "data": {
+      "w": "381",
+      "h": "204"
+    }
+  },
+  "lists": [
+    {
+      "items": [
+        {
+          "question": "Let's eat some brownies.",
+          "answer": "eat",
+          "soundURL": "./themaData_1/sounds/Daily_Life2_01.mp3"
+        },
+        {
+          "question": "_____ your hands first.",
+          "answer": "Wash",
+          "soundURL": "./themaData_1/sounds/Daily_Life2_02.mp3"
+        }
+      ],
+      "youtubeURL": "https://youtu.be/3vQnVoif7dE"
+    },
+    {
+      "items": [
+        {
+          "question": "Do you like baseball?",
+          "answer": "No, I don't. I like soccer.",
+          "soundURL": "./themaData_1/sounds/Daily_Life2_03.mp3"
+        },
+        {
+          "question": "Do you _____ baseball?",
+          "answer": "like",
+          "soundURL": "./themaData_1/sounds/Daily_Life2_04.mp3"
+        },
+        {
+          "question": "Let's __ to the field.",
+          "answer": "go",
+          "soundURL": "./themaData_1/sounds/Daily_Life2_05.mp3"
+        },
+        {
+          "question": "______ play soccer together.",
+          "answer": "Let's",
+          "soundURL": "./themaData_1/sounds/Daily_Life2_06.mp3"
+        }
+      ],
+      "youtubeURL": "https://youtu.be/-0j1AOE5tOM"
+    },
+    {
+      "items": [
+        {
+          "question": "Do you like cheese?",
+          "answer": "Yes, I do.",
+          "soundURL": "./themaData_1/sounds/Daily_Life2_07.mp3"
+        },
+        {
+          "question": "______ , I don't.",
+          "answer": "No",
+          "soundURL": "./themaData_1/sounds/Daily_Life2_08.mp3"
+        },
+        {
+          "question": "Mom, I'm hungry.",
+          "answer": "Let's have some lunch.",
+          "soundURL": "./themaData_1/sounds/Daily_Life2_09.mp3"
+        },
+        {
+          "question": "Let's ______ some lunch.",
+          "answer": "have",
+          "soundURL": "./themaData_1/sounds/Daily_Life2_10.mp3"
+        },
+        {
+          "question": "____ you like French fries?",
+          "answer": "Do",
+          "soundURL": "./themaData_1/sounds/Daily_Life2_11.mp3"
+        },
+        {
+          "question": "I made some sandwiches. Try them.",
+          "answer": "Oh! It's very good. I like this sandwich.",
+          "soundURL": "./themaData_1/sounds/Daily_Life2_12.mp3"
+        },
+        {
+          "question": "I _____ some sandwiches. Try them.",
+          "answer": "made",
+          "soundURL": "./themaData_1/sounds/Daily_Life2_13.mp3"
+        }
+      ],
+      "youtubeURL": "https://youtu.be/1qg_H7ext6A"
+    },
+    {
+      "items": [
+        {
+          "question": "Do you have crayons?",
+          "answer": "Yes, I do. Here you are.",
+          "soundURL": "./themaData_1/sounds/Daily_Life2_14.mp3"
+        },
+        {
+          "question": "Yes, I do. _______ you are.",
+          "answer": "Here",
+          "soundURL": "./themaData_1/sounds/Daily_Life2_15.mp3"
+        },
+        {
+          "question": "Here you are.",
+          "answer": "Thank you.",
+          "soundURL": "./themaData_1/sounds/Daily_Life2_16.mp3"
+        },
+        {
+          "question": "Do you have a yellow-colored pencil?",
+          "answer": "No, I don't. I have a blue one.",
+          "soundURL": "./themaData_1/sounds/Daily_Life2_17.mp3"
+        },
+        {
+          "question": "_____ is for you.",
+          "answer": "This",
+          "soundURL": "./themaData_1/sounds/Daily_Life2_18.mp3"
+        }
+      ],
+      "youtubeURL": "https://youtu.be/rmu9rEf2jRo"
+    },
+    {
+      "items": [
+        {
+          "question": "What color is it?",
+          "answer": "It's red.",
+          "soundURL": "./themaData_1/sounds/Daily_Life2_19.mp3"
+        }
+      ],
+      "youtubeURL": "https://youtu.be/3L-yv3YoQFQ"
+    },
+    {
+      "items": [
+        {
+          "question": "Mom, what time is it?",
+          "answer": "It's noon. Time for lunch!",
+          "soundURL": "./themaData_1/sounds/Daily_Life2_20.mp3"
+        },
+        {
+          "question": "Oh, no! It's ______ one o'clock!",
+          "answer": "already",
+          "soundURL": "./themaData_1/sounds/Daily_Life2_21.mp3"
+        },
+        {
+          "question": "______ time is it?",
+          "answer": "What",
+          "soundURL": "./themaData_1/sounds/Daily_Life2_22.mp3"
+        },
+        {
+          "question": "We're _______. Let's hurry!",
+          "answer": "late",
+          "soundURL": "./themaData_1/sounds/Daily_Life2_23.mp3"
+        }
+      ],
+      "youtubeURL": "https://youtu.be/03xCiW8yvpg"
+    },
+    {
+      "items": [
+        {
+          "question": "Good morning, Leo.",
+          "answer": "Good morning, Dad. What time is it?",
+          "soundURL": "./themaData_1/sounds/Daily_Life2_24.mp3"
+        }
+      ],
+      "youtubeURL": "https://youtu.be/vluwTCNLobY"
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "themaBgURL": "./themaData_2/images/themaBg.png",
+  "themaIcon": {
+    "URL": "./themaData_2/images/themaIcon.png",
+    "data": {
+      "w": "381",
+      "h": "204"
+    }
+  },
+  "lists": [
+    {
+      "items": [
+        {
+          "question": "It's _____ for breakfast.",
+          "answer": "time",
+          "soundURL": "./themaData_2/sounds/Daily_Life3_01.mp3"
+        },
+        {
+          "question": "Are you ready?",
+          "answer": "Yes, we're ready.",
+          "soundURL": "./themaData_2/sounds/Daily_Life3_02.mp3"
+        },
+        {
+          "question": "Are you ________?",
+          "answer": "ready",
+          "soundURL": "./themaData_2/sounds/Daily_Life3_03.mp3"
+        },
+        {
+          "question": "Let's go home.",
+          "answer": "Please wait for me.",
+          "soundURL": "./themaData_2/sounds/Daily_Life3_04.mp3"
+        },
+        {
+          "question": "It's late. It's time for bed.",
+          "answer": "Okay. Good night, Mom and Dad.",
+          "soundURL": "./themaData_2/sounds/Daily_Life3_05.mp3"
+        }
+      ],
+      "youtubeURL": ""
+    },
+    {
+      "items": [
+        {
+          "question": "How old are you?",
+          "answer": "I'm five.",
+          "soundURL": "./themaData_2/sounds/Daily_Life3_06.mp3"
+        },
+        {
+          "question": "How ____ are you?",
+          "answer": "old",
+          "soundURL": "./themaData_2/sounds/Daily_Life3_07.mp3"
+        }
+      ],
+      "youtubeURL": ""
+    },
+    {
+      "items": [
+        {
+          "question": "______  _____ your coat, please.",
+          "answer": "Put on",
+          "soundURL": "./themaData_2/sounds/Daily_Life3_08.mp3"
+        }
+      ],
+      "youtubeURL": ""
+    },
+    {
+      "items": [
+        {
+          "question": "What day is it today?",
+          "answer": "It's Wednesday.",
+          "soundURL": "./themaData_2/sounds/Daily_Life3_09.mp3"
+        },
+        {
+          "question": "Can you play baseball this afternoon?",
+          "answer": "Sorry, I can't. I have a piano lesson.",
+          "soundURL": "./themaData_2/sounds/Daily_Life3_10.mp3"
+        }
+      ],
+      "youtubeURL": ""
+    },
+    {
+      "items": [
+        {
+          "question": "It's three o'clock! Let's _____ outside!",
+          "answer": "play",
+          "soundURL": "./themaData_2/sounds/Daily_Life3_11.mp3"
+        },
+        {
+          "question": "_______ is my music book?",
+          "answer": "Where",
+          "soundURL": "./themaData_2/sounds/Daily_Life3_12.mp3"
+        },
+        {
+          "question": "Where is my pencil?",
+          "answer": "Oh, it's under the table.",
+          "soundURL": "./themaData_2/sounds/Daily_Life3_13.mp3"
+        }
+      ],
+      "youtubeURL": ""
+    },
+    {
+      "items": [
+        {
+          "question": "Mom, where is my cap?",
+          "answer": "It's in your bag.",
+          "soundURL": "./themaData_2/sounds/Daily_Life3_14.mp3"
+        },
+        {
+          "question": "I don't ____ it.",
+          "answer": "see",
+          "soundURL": "./themaData_2/sounds/Daily_Life3_15.mp3"
+        }
+      ],
+      "youtubeURL": ""
+    },
+    {
+      "items": [
+        {
+          "question": "Who is she?",
+          "answer": "She is my friend, Ellen.",
+          "soundURL": "./themaData_2/sounds/Daily_Life3_16.mp3"
+        },
+        {
+          "question": "Let's sing a song together!",
+          "answer": "Sorry, I can't sing well.",
+          "soundURL": "./themaData_2/sounds/Daily_Life3_17.mp3"
+        }
+      ],
+      "youtubeURL": ""
+    },
+    {
+      "items": [
+        {
+          "question": "Are you ready for the Christmas party?",
+          "answer": "Yes, here are the presents.",
+          "soundURL": "./themaData_2/sounds/Daily_Life3_18.mp3"
+        },
+        {
+          "question": "Put on your gloves, too.",
+          "answer": "Oh, they're not mine.",
+          "soundURL": "./themaData_2/sounds/Daily_Life3_19.mp3"
+        },
+        {
+          "question": "What's this smell?",
+          "answer": "We made apple pie.",
+          "soundURL": "./themaData_2/sounds/Daily_Life3_20.mp3"
+        },
+        {
+          "question": "Is this mine?",
+          "answer": "Yes, it's yours. I made it for you.",
+          "soundURL": "./themaData_2/sounds/Daily_Life3_21.mp3"
+        }
+      ],
+      "youtubeURL": ""
+    }
+  ]
+}

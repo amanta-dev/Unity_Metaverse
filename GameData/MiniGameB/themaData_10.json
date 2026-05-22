@@ -1,0 +1,96 @@
+{
+  "themaBgURL": "./themaData_10/images/themaBg.png",
+  "themaIcon": {
+    "URL": "./themaData_10/images/themaIcon.png",
+    "data": {
+      "w": "381",
+      "h": "204"
+    }
+  },
+  "lists": [
+    {
+      "answer": "circle",
+      "items": ["triangle","square","circle"],
+      "imageURL": "./themaData_10/images/circle.png",
+      "soundURL": "./themaData_10/sounds/circle.mp3",
+      "youtubeURL": "https://youtu.be/jbxXG6hwcRk"
+    },
+    {
+      "answer": "triangle",
+      "items": ["triangle","rectangle","pentagon"],
+      "imageURL": "./themaData_10/images/triangle.png",
+      "soundURL": "./themaData_10/sounds/triangle.mp3",
+      "youtubeURL": "https://youtu.be/jbxXG6hwcRk"
+    },
+    {
+      "answer": "square",
+      "items": ["hexagone","square","arrow"],
+      "imageURL": "./themaData_10/images/square.png",
+      "soundURL": "./themaData_10/sounds/square.mp3",
+      "youtubeURL": "https://youtu.be/jbxXG6hwcRk"
+    },
+    {
+      "answer": "rectangle",
+      "items": ["rectangle","crescent","cross"],
+      "imageURL": "./themaData_10/images/rectangle.png",
+      "soundURL": "./themaData_10/sounds/rectangle.mp3",
+      "youtubeURL": "https://youtu.be/jbxXG6hwcRk"
+    },
+    {
+      "answer": "pentagon",
+      "items": ["diamond","heart","pentagon"],
+      "imageURL": "./themaData_10/images/pentagon.png",
+      "soundURL": "./themaData_10/sounds/pentagon.mp3",
+      "youtubeURL": "https://youtu.be/jbxXG6hwcRk"
+    },
+    {
+      "answer": "hexagone",
+      "items": ["hexagone","star","circle"],
+      "imageURL": "./themaData_10/images/hexagone.png",
+      "soundURL": "./themaData_10/sounds/hexagone.mp3",
+      "youtubeURL": "https://youtu.be/jbxXG6hwcRk"
+    },
+    {
+      "answer": "arrow",
+      "items": ["triangle","arrow","square"],
+      "imageURL": "./themaData_10/images/arrow.png",
+      "soundURL": "./themaData_10/sounds/arrow.mp3",
+      "youtubeURL": "https://youtu.be/jbxXG6hwcRk"
+    },
+    {
+      "answer": "crescent",
+      "items": ["rectangle","crescent","pentagon"],
+      "imageURL": "./themaData_10/images/crescent.png",
+      "soundURL": "./themaData_10/sounds/crescent.mp3",
+      "youtubeURL": "https://youtu.be/jbxXG6hwcRk"
+    },
+    {
+      "answer": "cross",
+      "items": ["cross","hexagone","arrow"],
+      "imageURL": "./themaData_10/images/cross.png",
+      "soundURL": "./themaData_10/sounds/cross.mp3",
+      "youtubeURL": "https://youtu.be/jbxXG6hwcRk"
+    },
+    {
+      "answer": "diamond",
+      "items": ["crescent","cross","diamond"],
+      "imageURL": "./themaData_10/images/diamond.png",
+      "soundURL": "./themaData_10/sounds/diamond.mp3",
+      "youtubeURL": "https://youtu.be/jbxXG6hwcRk"
+    },
+    {
+      "answer": "heart",
+      "items": ["heart","star","circle"],
+      "imageURL": "./themaData_10/images/heart.png",
+      "soundURL": "./themaData_10/sounds/heart.mp3",
+      "youtubeURL": "https://youtu.be/jbxXG6hwcRk"
+    },
+    {
+      "answer": "star",
+      "items": ["triangle","square","star"],
+      "imageURL": "./themaData_10/images/star.png",
+      "soundURL": "./themaData_10/sounds/star.mp3",
+      "youtubeURL": "https://youtu.be/jbxXG6hwcRk"
+    }
+  ]
+}

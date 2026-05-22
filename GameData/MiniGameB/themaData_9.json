@@ -1,0 +1,96 @@
+{
+  "themaBgURL": "./themaData_9/images/themaBg.png",
+  "themaIcon": {
+    "URL": "./themaData_9/images/themaIcon.png",
+    "data": {
+      "w": "381",
+      "h": "204"
+    }
+  },
+  "lists": [
+    {
+      "answer": "grandfather",
+      "items": ["grandmother","grandfather","grandparents"],
+      "imageURL": "./themaData_9/images/grandfather.png",
+      "soundURL": "./themaData_9/sounds/grandfather.mp3",
+      "youtubeURL": "https://youtu.be/FHaObkHEkHQ"
+    },
+    {
+      "answer": "grandmother",
+      "items": ["grandmother","father","mother"],
+      "imageURL": "./themaData_9/images/grandmother.png",
+      "soundURL": "./themaData_9/sounds/grandmother.mp3",
+      "youtubeURL": "https://youtu.be/FHaObkHEkHQ"
+    },
+    {
+      "answer": "grandparents",
+      "items": ["parents","grandparents","uncle"],
+      "imageURL": "./themaData_9/images/grandparents.png",
+      "soundURL": "./themaData_9/sounds/grandparents.mp3",
+      "youtubeURL": "https://youtu.be/FHaObkHEkHQ"
+    },
+    {
+      "answer": "father",
+      "items": ["aunt","brother","father"],
+      "imageURL": "./themaData_9/images/father.png",
+      "soundURL": "./themaData_9/sounds/father.mp3",
+      "youtubeURL": "https://youtu.be/FHaObkHEkHQ"
+    },
+    {
+      "answer": "mother",
+      "items": ["mother","me","sister"],
+      "imageURL": "./themaData_9/images/mother.png",
+      "soundURL": "./themaData_9/sounds/mother.mp3",
+      "youtubeURL": "https://youtu.be/FHaObkHEkHQ"
+    },
+    {
+      "answer": "parents",
+      "items": ["cousin","grandfather","parents"],
+      "imageURL": "./themaData_9/images/parents.png",
+      "soundURL": "./themaData_9/sounds/parents.mp3",
+      "youtubeURL": "https://youtu.be/FHaObkHEkHQ"
+    },
+    {
+      "answer": "uncle",
+      "items": ["grandmother","father","uncle"],
+      "imageURL": "./themaData_9/images/uncle.png",
+      "soundURL": "./themaData_9/sounds/uncle.mp3",
+      "youtubeURL": "https://youtu.be/FHaObkHEkHQ"
+    },
+    {
+      "answer": "aunt",
+      "items": ["aunt","mother","brother"],
+      "imageURL": "./themaData_9/images/aunt.png",
+      "soundURL": "./themaData_9/sounds/aunt.mp3",
+      "youtubeURL": "https://youtu.be/FHaObkHEkHQ"
+    },
+    {
+      "answer": "brother",
+      "items": ["brother","me","sister"],
+      "imageURL": "./themaData_9/images/brother.png",
+      "soundURL": "./themaData_9/sounds/brother.mp3",
+      "youtubeURL": "https://youtu.be/FHaObkHEkHQ"
+    },
+    {
+      "answer": "me",
+      "items": ["cousin","me","grandfather"],
+      "imageURL": "./themaData_9/images/me.png",
+      "soundURL": "./themaData_9/sounds/me.mp3",
+      "youtubeURL": "https://youtu.be/FHaObkHEkHQ"
+    },
+    {
+      "answer": "sister",
+      "items": ["grandmother","father","sister"],
+      "imageURL": "./themaData_9/images/sister.png",
+      "soundURL": "./themaData_9/sounds/sister.mp3",
+      "youtubeURL": "https://youtu.be/FHaObkHEkHQ"
+    },
+    {
+      "answer": "cousin",
+      "items": ["mother","parents","cousin"],
+      "imageURL": "./themaData_9/images/cousin.png",
+      "soundURL": "./themaData_9/sounds/cousin.mp3",
+      "youtubeURL": "https://youtu.be/FHaObkHEkHQ"
+    }
+  ]
+}

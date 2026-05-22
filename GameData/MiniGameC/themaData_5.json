@@ -1,0 +1,127 @@
+{
+  "themaBgURL": "./themaData_5/images/themaBg.png",
+  "themaIcon": {
+    "URL": "./themaData_5/images/themaIcon.png",
+    "data": {
+      "w": "381",
+      "h": "204"
+    }
+  },
+  "lists": [
+    {
+      "items": [
+        {
+          "question": "What's that?",
+          "answer": "It's my birthday invitation.",
+          "soundURL": ""
+        },
+        {
+          "question": "Can you ________ to my party?",
+          "answer": "come",
+          "soundURL": ""
+        },
+        {
+          "question": "Happy birthday! This is for you.",
+          "answer": "Thank you, everyone.",
+          "soundURL": ""
+        },
+        {
+          "question": "Can ____ jump?",
+          "answer": "you",
+          "soundURL": ""
+        }
+      ],
+      "youtubeURL": ""
+    },
+    {
+      "items": [
+        {
+          "question": "I _______ to go camping.",
+          "answer": "want",
+          "soundURL": ""
+        },
+        {
+          "question": "_______ go camping.",
+          "answer": "Let's",
+          "soundURL": ""
+        },
+        {
+          "question": "Let's go fishing.",
+          "answer": "Sounds great!",
+          "soundURL": ""
+        }
+      ],
+      "youtubeURL": ""
+    },
+    {
+      "items": [
+        {
+          "question": "How _________ is it?",
+          "answer": "much",
+          "soundURL": ""
+        },
+        {
+          "question": "I want this bike. It looks nice.",
+          "answer": "Okay, let's buy it.",
+          "soundURL": ""
+        },
+        {
+          "question": "_____ I help you?",
+          "answer": "May",
+          "soundURL": ""
+        }
+      ],
+      "youtubeURL": ""
+    },
+    {
+      "items": [
+        {
+          "question": "What a ____day!",
+          "answer": "nice",
+          "soundURL": ""
+        },
+        {
+          "question": "Wow, you are very tall.",
+          "answer": "Thanks.",
+          "soundURL": ""
+        },
+        {
+          "question": "I can ______ fast!",
+          "answer": "run",
+          "soundURL": ""
+        },
+        {
+          "question": "I _____ make it!",
+          "answer": "can",
+          "soundURL": ""
+        }
+      ],
+      "youtubeURL": ""
+    },
+    {
+      "items": [
+        {
+          "question": "What a big tree!",
+          "answer": "Yes, it's a very big tree.",
+          "soundURL": ""
+        },
+        {
+          "question": "What are they looking at?",
+          "answer": "I don't know. Let's go and see.",
+          "soundURL": ""
+        },
+        {
+          "question": "_________ a beautiful flower!",
+          "answer": "What",
+          "soundURL": ""
+        },
+        {
+          "question": "Watch out! _______ touch that!",
+          "answer": "Don't",
+          "soundURL": ""
+        }
+      ],
+      "youtubeURL": ""
+    }
+  ]
+}

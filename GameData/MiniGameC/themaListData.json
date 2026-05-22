@@ -7,6 +7,62 @@
       "locked": false, 
       "lockType": "",
       "isPremium": false
+    },
+    {
+      "thema": "Daily Life2",
+      "themaImageURL": "./themaData_1/images/themaBtn.png",
+      "themaDataURL": "./themaData_1.json",
+      "locked": false, 
+      "lockType": "",
+      "isPremium": false
+    },
+    {
+      "thema": "Daily Life3",
+      "themaImageURL": "./themaData_2/images/themaBtn.png",
+      "themaDataURL": "./themaData_2.json",
+      "locked": false, 
+      "lockType": "",
+      "isPremium": false
+    },
+    {
+      "thema": "Daily Life4",
+      "themaImageURL": "./themaData_3/images/themaBtn.png",
+      "themaDataURL": "./themaData_3.json",
+      "locked": true, 
+      "lockType": "premium",
+      "isPremium": true
+    },
+    {
+      "thema": "",
+      "themaImageURL": "./themaData_4/images/themaBtn.png",
+      "themaDataURL": "./themaData_4.json",
+      "locked": true, 
+      "lockType": "dev",
+      "isPremium": false
+    },
+    {
+      "thema": "Out & About 1",
+      "themaImageURL": "./themaData_5/images/themaBtn.png",
+      "themaDataURL": "./themaData_5.json",
+      "locked": true, 
+      "lockType": "dev",
+      "isPremium": false
+    },
+    {
+      "thema": "",
+      "themaImageURL": "./themaData_6/images/themaBtn.png",
+      "themaDataURL": "./themaData_6.json",
+      "locked": true, 
+      "lockType": "dev",
+      "isPremium": false
+    },
+    {
+      "thema": "Problem Solving",
+      "themaImageURL": "./themaData_7/images/themaBtn.png",
+      "themaDataURL": "./themaData_7.json",
+      "locked": true, 
+      "lockType": "dev",
+      "isPremium": false
     }
   ]
 }

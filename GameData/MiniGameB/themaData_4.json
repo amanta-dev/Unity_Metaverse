@@ -1,0 +1,103 @@
+{
+  "themaBgURL": "./themaData_4/images/themaBg.png",
+  "themaIcon": {
+    "URL": "./themaData_4/images/themaIcon.png",
+    "data": {
+      "w": "381",
+      "h": "204"
+    }
+  },
+  "lists": [
+    {
+      "answer": "angry",
+      "items": ["bored","angry","excited"],
+      "imageURL": "./themaData_4/images/angry.png",
+      "soundURL": "./themaData_4/sounds/angry.mp3",
+      "youtubeURL": "https://youtu.be/o5jZIswSfSE"
+    },
+    {
+      "answer": "bored",
+      "items": ["bored","happy","hungry"],
+      "imageURL": "./themaData_4/images/bored.png",
+      "soundURL": "./themaData_4/sounds/bored.mp3",
+      "youtubeURL": "https://youtu.be/o5jZIswSfSE"
+    },
+    {
+      "answer": "excited",
+      "items": ["sad","scared","excited"],
+      "imageURL": "./themaData_4/images/excited.png",
+      "soundURL": "./themaData_4/sounds/excited.mp3",
+      "youtubeURL": "https://youtu.be/o5jZIswSfSE"
+    },
+    {
+      "answer": "happy",
+      "items": ["shy","happy","sick"],
+      "imageURL": "./themaData_4/images/happy.png",
+      "soundURL": "./themaData_4/sounds/happy.mp3",
+      "youtubeURL": "https://youtu.be/o5jZIswSfSE"
+    },
+    {
+      "answer": "hungry",
+      "items": ["sleepy","hungry","thirsty"],
+      "imageURL": "./themaData_4/images/hungry.png",
+      "soundURL": "./themaData_4/sounds/hungry.mp3",
+      "youtubeURL": "https://youtu.be/o5jZIswSfSE"
+    },
+    {
+      "answer": "sad",
+      "items": ["sad","tired","worried"],
+      "imageURL": "./themaData_4/images/sad.png",
+      "soundURL": "./themaData_4/sounds/sad.mp3",
+      "youtubeURL": "https://youtu.be/o5jZIswSfSE"
+    },
+    {
+      "answer": "scared",
+      "items": ["angry","bored","scared"],
+      "imageURL": "./themaData_4/images/scared.png",
+      "soundURL": "./themaData_4/sounds/scared.mp3",
+      "youtubeURL": "https://youtu.be/o5jZIswSfSE"
+    },
+    {
+      "answer": "shy",
+      "items": ["shy","excited","happy"],
+      "imageURL": "./themaData_4/images/shy.png",
+      "soundURL": "./themaData_4/sounds/shy.mp3",
+      "youtubeURL": "https://youtu.be/o5jZIswSfSE"
+    },
+    {
+      "answer": "sick",
+      "items": ["hungry","sick","sad"],
+      "imageURL": "./themaData_4/images/sick.png",
+      "soundURL": "./themaData_4/sounds/sick.mp3",
+      "youtubeURL": "https://youtu.be/o5jZIswSfSE"
+    },
+    {
+      "answer": "sleepy",
+      "items": ["scared","shy","sleepy"],
+      "imageURL": "./themaData_4/images/sleepy.png",
+      "soundURL": "./themaData_4/sounds/sleepy.mp3",
+      "youtubeURL": "https://youtu.be/o5jZIswSfSE"
+    },
+    {
+      "answer": "thirsty",
+      "items": ["thirsty","sick","sleepy"],
+      "imageURL": "./themaData_4/images/thirsty.png",
+      "soundURL": "./themaData_4/sounds/thirsty.mp3",
+      "youtubeURL": "https://youtu.be/o5jZIswSfSE"
+    },
+    {
+      "answer": "tired",
+      "items": ["worried","angry","tired"],
+      "imageURL": "./themaData_4/images/tired.png",
+      "soundURL": "./themaData_4/sounds/tired.mp3",
+      "youtubeURL": "https://youtu.be/o5jZIswSfSE"
+    },
+    {
+      "answer": "worried",
+      "items": ["bored","worried","excited"],
+      "imageURL": "./themaData_4/images/worried.png",
+      "soundURL": "./themaData_4/sounds/worried.mp3",
+      "youtubeURL": "https://youtu.be/o5jZIswSfSE"
+    }
+  ]
+}

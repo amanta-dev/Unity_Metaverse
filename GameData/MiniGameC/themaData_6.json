@@ -1,0 +1,162 @@
+{
+  "themaBgURL": "./themaData_6/images/themaBg.png",
+  "themaIcon": {
+    "URL": "./themaData_6/images/themaIcon.png",
+    "data": {
+      "w": "381",
+      "h": "204"
+    }
+  },
+  "lists": [
+    {
+      "items": [
+        {
+          "question": "Mia, can you pass me the salad, ______?",
+          "answer": "please",
+          "soundURL": ""
+        },
+        {
+          "question": "May I have some more?",
+          "answer": "Sure.",
+          "soundURL": ""
+        },
+        {
+          "question": "Do you want some ____, Lily?",
+          "answer": "more",
+          "soundURL": ""
+        },
+        {
+          "question": "_______ I visit again?",
+          "answer": "May",
+          "soundURL": ""
+        }
+      ],
+      "youtubeURL": ""
+    },
+    {
+      "items": [
+        {
+          "question": "Do you like riding the bike?",
+          "answer": "Yes, I do. I ride it every morning.",
+          "soundURL": ""
+        },
+        {
+          "question": "What time do you get up?",
+          "answer": "I get up at six.",
+          "soundURL": ""
+        },
+        {
+          "question": "________ bike is this?",
+          "answer": "Whose",
+          "soundURL": ""
+        },
+        {
+          "question": "Noah, is this your bike?",
+          "answer": "Yes, it's mine.",
+          "soundURL": ""
+        }
+      ],
+      "youtubeURL": ""
+    },
+    {
+      "items": [
+        {
+          "question": "What class is next?",
+          "answer": "Math.",
+          "soundURL": ""
+        },
+        {
+          "question": "What's your favorite subject?",
+          "answer": "My favorite subject is P.E.",
+          "soundURL": ""
+        },
+        {
+          "question": "I play basketball every day.",
+          "answer": "I like basketball too, but I can't play well.",
+          "soundURL": ""
+        },
+        {
+          "question": "I like basketball too, but I ______ play well.",
+          "answer": "can't",
+          "soundURL": ""
+        },
+        {
+          "question": "How about playing basketball after school?",
+          "answer": "That's a good idea.",
+          "soundURL": ""
+        }
+      ],
+      "youtubeURL": ""
+    },
+    {
+      "items": [
+        {
+          "question": "What did you do yesterday?",
+          "answer": "I went to the park with Chloe.",
+          "soundURL": ""
+        }
+      ],
+      "youtubeURL": ""
+    },
+    {
+      "items": [
+        {
+          "question": "How was your summer vacation?",
+          "answer": "It was great. I went to Hawaii with my family.",
+          "soundURL": ""
+        }
+      ],
+      "youtubeURL": ""
+    },
+    {
+      "items": [
+        {
+          "question": "Good morning, Mia. How are you?",
+          "answer": "I'm not okay. I have a toothache.",
+          "soundURL": ""
+        },
+        {
+          "question": "Don't eat too many sweets and brush your teeth _______.",
+          "answer": "everyday",
+          "soundURL": ""
+        }
+      ],
+      "youtubeURL": ""
+    },
+    {
+      "items": [
+        {
+          "question": "Welcome. May I take your order?",
+          "answer": "Yes. I'd like a hamburger, French fries, and a coke, please.",
+          "soundURL": ""
+        },
+        {
+          "question": "May I take your _____?",
+          "answer": "order",
+          "soundURL": ""
+        },
+        {
+          "question": "For here or to go?",
+          "answer": "For here, please.",
+          "soundURL": ""
+        },
+        {
+          "question": "Enjoy your meal!",
+          "answer": "Thank you.",
+          "soundURL": ""
+        }
+      ],
+      "youtubeURL": ""
+    },
+    {
+      "items": [
+        {
+          "question": "Would you like something to drink?",
+          "answer": "Two bottles of sparkling water, please.",
+          "soundURL": ""
+        }
+      ],
+      "youtubeURL": ""
+    }
+  ]
+}

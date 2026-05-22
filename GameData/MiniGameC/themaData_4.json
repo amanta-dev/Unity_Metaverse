@@ -1,0 +1,122 @@
+{
+  "themaBgURL": "./themaData_4/images/themaBg.png",
+  "themaIcon": {
+    "URL": "./themaData_4/images/themaIcon.png",
+    "data": {
+      "w": "381",
+      "h": "204"
+    }
+  },
+  "lists": [
+    {
+      "items": [
+        {
+          "question": "How many bears are _____?",
+          "answer": "there",
+          "soundURL": ""
+        },
+        {
+          "question": "Then how many bears?",
+          "answer": "There are three bears.",
+          "soundURL": ""
+        },
+        {
+          "question": "How ______ bears are there?",
+          "answer": "many",
+          "soundURL": ""
+        },
+        {
+          "question": "How many tigers are there?",
+          "answer": "One, two, three, four, five. Five tigers.",
+          "soundURL": ""
+        }
+      ],
+      "youtubeURL": ""
+    },
+    {
+      "items": [
+        {
+          "question": "Let's play _____.",
+          "answer": "outside",
+          "soundURL": ""
+        },
+        {
+          "question": "Look! It's snowing.",
+          "answer": "It's all white.",
+          "soundURL": ""
+        },
+        {
+          "question": "Do you like snow?",
+          "answer": "Yes, I do.",
+          "soundURL": ""
+        },
+        {
+          "question": "Can you make a snowman?",
+          "answer": "Sure, I can.",
+          "soundURL": ""
+        },
+        {
+          "question": "Let's ______ it together.",
+          "answer": "make",
+          "soundURL": ""
+        }
+      ],
+      "youtubeURL": ""
+    },
+    {
+      "items": [
+        {
+          "question": "Are you ______ a nice holiday?",
+          "answer": "having",
+          "soundURL": ""
+        },
+        {
+          "question": "Where are you, Noah?",
+          "answer": "I'm in London.",
+          "soundURL": ""
+        },
+        {
+          "question": "How's the weather there?",
+          "answer": "It's rainy.",
+          "soundURL": ""
+        },
+        {
+          "question": "I'm ___ Hawaii.",
+          "answer": "in",
+          "soundURL": ""
+        },
+        {
+          "question": "How's the ________ there?",
+          "answer": "weather",
+          "soundURL": ""
+        },
+        {
+          "question": "I'm going to go swimming. See you later.",
+          "answer": "Bye.",
+          "soundURL": ""
+        }
+      ],
+      "youtubeURL": ""
+    },
+    {
+      "items": [
+        {
+          "question": "It's sunny today. I like summer.",
+          "answer": "I don't like summer. It's too hot.",
+          "soundURL": ""
+        },
+        {
+          "question": "I ______ like summer. It's too hot.",
+          "answer": "don't",
+          "soundURL": ""
+        },
+        {
+          "question": "I like ________. I love making snowmen.",
+          "answer": "winter",
+          "soundURL": ""
+        }
+      ],
+      "youtubeURL": ""
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "themaBgURL": "./themaData_3/images/themaBg.png",
+  "themaIcon": {
+    "URL": "./themaData_3/images/themaIcon.png",
+    "data": {
+      "w": "381",
+      "h": "204"
+    }
+  },
+  "lists": [
+    {
+      "items": [
+        {
+          "question": "Do you have an umbrella?",
+          "answer": "Yes, I do.",
+          "soundURL": "./themaData_3/sounds/Daily_Life4_01.mp3"
+        },
+        {
+          "question": "Is this red umbrella ______?",
+          "answer": "yours",
+          "soundURL": "./themaData_3/sounds/Daily_Life4_02.mp3"
+        },
+        {
+          "question": "What color is your umbrella?",
+          "answer": "It's green and white.",
+          "soundURL": "./themaData_3/sounds/Daily_Life4_03.mp3"
+        },
+        {
+          "question": "Is this yours?",
+          "answer": "Yes, it's mine.",
+          "soundURL": "./themaData_3/sounds/Daily_Life4_04.mp3"
+        },
+        {
+          "question": "No, it's ___.",
+          "answer": "not",
+          "soundURL": "./themaData_3/sounds/Daily_Life4_05.mp3"
+        }
+      ],
+      "youtubeURL": ""
+    },
+    {
+      "items": [
+        {
+          "question": "I'm jumping.",
+          "answer": "Wow, you're jumping high.",
+          "soundURL": "./themaData_3/sounds/Daily_Life4_06.mp3"
+        },
+        {
+          "question": "What are they doing?",
+          "answer": "They are dancing.",
+          "soundURL": "./themaData_3/sounds/Daily_Life4_07.mp3"
+        },
+        {
+          "question": "What are they _______?",
+          "answer": "doing",
+          "soundURL": "./themaData_3/sounds/Daily_Life4_08.mp3"
+        }
+      ],
+      "youtubeURL": ""
+    },
+    {
+      "items": [
+        {
+          "question": "What's he doing?",
+          "answer": "He's dancing.",
+          "soundURL": "./themaData_3/sounds/Daily_Life4_09.mp3"
+        },
+        {
+          "question": "What's she doing?",
+          "answer": "She's jogging.",
+          "soundURL": "./themaData_3/sounds/Daily_Life4_10.mp3"
+        }
+      ],
+      "youtubeURL": ""
+    },
+    {
+      "items": [
+        {
+          "question": "I'm a firefighter.",
+          "answer": "I put out fires.",
+          "soundURL": "./themaData_3/sounds/Daily_Life4_11.mp3"
+        },
+        {
+          "question": "I'm a cook.",
+          "answer": "I make delicious foods.",
+          "soundURL": "./themaData_3/sounds/Daily_Life4_12.mp3"
+        },
+        {
+          "question": "I'm a doctor.",
+          "answer": "I help sick people.",
+          "soundURL": "./themaData_3/sounds/Daily_Life4_13.mp3"
+        },
+        {
+          "question": "I'm a farmer.",
+          "answer": "I grow vegetables.",
+          "soundURL": "./themaData_3/sounds/Daily_Life4_14.mp3"
+        }
+      ],
+      "youtubeURL": ""
+    },
+    {
+      "items": [
+        {
+          "question": "Hello. Can I _____ to Lily, please?",
+          "answer": "speak",
+          "soundURL": "./themaData_3/sounds/Daily_Life4_15.mp3"
+        },
+        {
+          "question": "Hi. This is Mia.",
+          "answer": "Hi, Mia. What's up?",
+          "soundURL": "./themaData_3/sounds/Daily_Life4_16.mp3"
+        },
+        {
+          "question": "Chloe is sick.",
+          "answer": "That's too bad.",
+          "soundURL": "./themaData_3/sounds/Daily_Life4_17.mp3"
+        },
+        {
+          "question": "_____ we visit her together?",
+          "answer": "Shall",
+          "soundURL": "./themaData_3/sounds/Daily_Life4_18.mp3"
+        },
+        {
+          "question": "Let's _____ at the bus stop.",
+          "answer": "meet",
+          "soundURL": "./themaData_3/sounds/Daily_Life4_19.mp3"
+        }
+      ],
+      "youtubeURL": ""
+    },
+    {
+      "items": [
+        {
+          "question": "Sorry, she's not _____. Who's calling?",
+          "answer": "here",
+          "soundURL": "./themaData_3/sounds/Daily_Life4_20.mp3"
+        },
+        {
+          "question": "Can I take a message for you?",
+          "answer": "No, thank you. I'll call back later.",
+          "soundURL": "./themaData_3/sounds/Daily_Life4_21.mp3"
+        },
+        {
+          "question": "Let's play badminton at the park.",
+          "answer": "Sounds good. What time shall we meet?",
+          "soundURL": "./themaData_3/sounds/Daily_Life4_22.mp3"
+        }
+      ],
+      "youtubeURL": ""
+    }
+  ]
+}

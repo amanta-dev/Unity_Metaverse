@@ -1,0 +1,103 @@
+{
+  "themaBgURL": "./themaData_1/images/themaBg.png",
+  "themaIcon": {
+    "URL": "./themaData_1/images/themaIcon.png",
+    "data": {
+      "w": "381",
+      "h": "204"
+    }
+  },
+  "lists": [
+    {
+      "answer": "hamburger",
+      "items": ["paella","hamburger","apple"],
+      "imageURL": "./themaData_1/images/hamburger.png",
+      "soundURL": "./themaData_1/sounds/hamburger.mp3",
+      "youtubeURL": "https://youtu.be/4uuGYHfnVRE"
+    },
+    {
+      "answer": "tacos",
+      "items": ["tacos","fish and chips","sushi"],
+      "imageURL": "./themaData_1/images/tacos.png",
+      "soundURL": "./themaData_1/sounds/tacos.mp3",
+      "youtubeURL": "https://youtu.be/4uuGYHfnVRE"
+    },
+    {
+      "answer": "dumplings",
+      "items": ["dumplings","paella","hamburger"],
+      "imageURL": "./themaData_1/images/dumplings.png",
+      "soundURL": "./themaData_1/sounds/dumplings.mp3",
+      "youtubeURL": "https://youtu.be/4uuGYHfnVRE"
+    },
+    {
+      "answer": "curry",
+      "items": ["fondue","curry","waffles"],
+      "imageURL": "./themaData_1/images/curry.png",
+      "soundURL": "./themaData_1/sounds/curry.mp3",
+      "youtubeURL": "https://youtu.be/4uuGYHfnVRE"
+    },
+    {
+      "answer": "sushi",
+      "items": ["curry","pizza","sushi"],
+      "imageURL": "./themaData_1/images/sushi.png",
+      "soundURL": "./themaData_1/sounds/sushi.mp3",
+      "youtubeURL": "https://youtu.be/4uuGYHfnVRE"
+    },
+    {
+      "answer": "bibimbap",
+      "items": ["bibimbap","sausage","paella"],
+      "imageURL": "./themaData_1/images/bibimbap.png",
+      "soundURL": "./themaData_1/sounds/bibimbap.mp3",
+      "youtubeURL": "https://youtu.be/4uuGYHfnVRE"
+    },
+    {
+      "answer": "rice noodles",
+      "items": ["rice noodles","waffles","tacos"],
+      "imageURL": "./themaData_1/images/rice_noodles.png",
+      "soundURL": "./themaData_1/sounds/rice_noodles.mp3",
+      "youtubeURL": "https://youtu.be/4uuGYHfnVRE"
+    },
+    {
+      "answer": "waffles",
+      "items": ["tacos","dumplings","waffles"],
+      "imageURL": "./themaData_1/images/waffles.png",
+      "soundURL": "./themaData_1/sounds/waffles.mp3",
+      "youtubeURL": "https://youtu.be/4uuGYHfnVRE"
+    },
+    {
+      "answer": "sausage",
+      "items": ["hamburger","fish and chips","sausage"],
+      "imageURL": "./themaData_1/images/sausage.png",
+      "soundURL": "./themaData_1/sounds/sausage.mp3",
+      "youtubeURL": "https://youtu.be/4uuGYHfnVRE"
+    },
+    {
+      "answer": "pizza",
+      "items": ["fondue","tacos","pizza"],
+      "imageURL": "./themaData_1/images/pizza.png",
+      "soundURL": "./themaData_1/sounds/pizza.mp3",
+      "youtubeURL": "https://youtu.be/4uuGYHfnVRE"
+    },
+    {
+      "answer": "fondue",
+      "items": ["fondue","dumplings","bibimbap"],
+      "imageURL": "./themaData_1/images/fondue.png",
+      "soundURL": "./themaData_1/sounds/fondue.mp3",
+      "youtubeURL": "https://youtu.be/4uuGYHfnVRE"
+    },
+    {
+      "answer": "paella",
+      "items": ["rice noodles","paella","tacos"],
+      "imageURL": "./themaData_1/images/paella.png",
+      "soundURL": "./themaData_1/sounds/paella.mp3",
+      "youtubeURL": "https://youtu.be/4uuGYHfnVRE"
+    },
+    {
+      "answer": "fish and chips",
+      "items": ["tacos","fish and chips","sushi"],
+      "imageURL": "./themaData_1/images/fish_and_chips.png",
+      "soundURL": "./themaData_1/sounds/fish_and_chips.mp3",
+      "youtubeURL": "https://youtu.be/4uuGYHfnVRE"
+    }
+  ]
+}

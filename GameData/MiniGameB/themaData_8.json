@@ -1,0 +1,103 @@
+{
+  "themaBgURL": "./themaData_8/images/themaBg.png",
+  "themaIcon": {
+    "URL": "./themaData_8/images/themaIcon.png",
+    "data": {
+      "w": "381",
+      "h": "204"
+    }
+  },
+  "lists": [
+    {
+      "answer": "red",
+      "items": ["blue","red","yellow"],
+      "imageURL": "./themaData_8/images/red.png",
+      "soundURL": "./themaData_8/sounds/red.mp3",
+      "youtubeURL": "https://youtu.be/ybt2jhCQ3lA"
+    },
+    {
+      "answer": "blue",
+      "items": ["purple","green","blue"],
+      "imageURL": "./themaData_8/images/blue.png",
+      "soundURL": "./themaData_8/sounds/blue.mp3",
+      "youtubeURL": "https://youtu.be/ybt2jhCQ3lA"
+    },
+    {
+      "answer": "yellow",
+      "items": ["yellow","orange","white"],
+      "imageURL": "./themaData_8/images/yellow.png",
+      "soundURL": "./themaData_8/sounds/yellow.mp3",
+      "youtubeURL": "https://youtu.be/ybt2jhCQ3lA"
+    },
+    {
+      "answer": "purple",
+      "items": ["black","purple","pink"],
+      "imageURL": "./themaData_8/images/purple.png",
+      "soundURL": "./themaData_8/sounds/purple.mp3",
+      "youtubeURL": "https://youtu.be/ybt2jhCQ3lA"
+    },
+    {
+      "answer": "green",
+      "items": ["green","grey","brown"],
+      "imageURL": "./themaData_8/images/green.png",
+      "soundURL": "./themaData_8/sounds/green.mp3",
+      "youtubeURL": "https://youtu.be/ybt2jhCQ3lA"
+    },
+    {
+      "answer": "orange",
+      "items": ["indigo","violet","orange"],
+      "imageURL": "./themaData_8/images/orange.png",
+      "soundURL": "./themaData_8/sounds/orange.mp3",
+      "youtubeURL": "https://youtu.be/ybt2jhCQ3lA"
+    },
+    {
+      "answer": "white",
+      "items": ["white","red","blue"],
+      "imageURL": "./themaData_8/images/white.png",
+      "soundURL": "./themaData_8/sounds/white.mp3",
+      "youtubeURL": "https://youtu.be/ybt2jhCQ3lA"
+    },
+    {
+      "answer": "black",
+      "items": ["yellow","purple","black"],
+      "imageURL": "./themaData_8/images/black.png",
+      "soundURL": "./themaData_8/sounds/black.mp3",
+      "youtubeURL": "https://youtu.be/ybt2jhCQ3lA"
+    },
+    {
+      "answer": "pink",
+      "items": ["pink","green","orange"],
+      "imageURL": "./themaData_8/images/pink.png",
+      "soundURL": "./themaData_8/sounds/pink.mp3",
+      "youtubeURL": "https://youtu.be/ybt2jhCQ3lA"
+    },
+    {
+      "answer": "grey",
+      "items": ["grey","white","black"],
+      "imageURL": "./themaData_8/images/grey.png",
+      "soundURL": "./themaData_8/sounds/grey.mp3",
+      "youtubeURL": "https://youtu.be/ybt2jhCQ3lA"
+    },
+    {
+      "answer": "brown",
+      "items": ["pink","grey","brown"],
+      "imageURL": "./themaData_8/images/brown.png",
+      "soundURL": "./themaData_8/sounds/brown.mp3",
+      "youtubeURL": "https://youtu.be/ybt2jhCQ3lA"
+    },
+    {
+      "answer": "indigo",
+      "items": ["brown","indigo","violet"],
+      "imageURL": "./themaData_8/images/indigo.png",
+      "soundURL": "./themaData_8/sounds/indigo.mp3",
+      "youtubeURL": "https://youtu.be/ybt2jhCQ3lA"
+    },
+    {
+      "answer": "violet",
+      "items": ["red","blue","violet"],
+      "imageURL": "./themaData_8/images/violet.png",
+      "soundURL": "./themaData_8/sounds/violet.mp3",
+      "youtubeURL": "https://youtu.be/ybt2jhCQ3lA"
+    }
+  ]
+}
