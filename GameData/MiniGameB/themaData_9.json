@@ -11,84 +11,84 @@
     {
       "answer": "grandfather",
       "items": ["grandmother","grandfather","grandparents"],
-      "imageURL": "./themaData_9/images/grandfather.png",
+      "imageURL": "./themaData_9/images/grandfather.jpg",
       "soundURL": "./themaData_9/sounds/grandfather.mp3",
       "youtubeURL": "https://youtu.be/FHaObkHEkHQ"
     },
     {
       "answer": "grandmother",
       "items": ["grandmother","father","mother"],
-      "imageURL": "./themaData_9/images/grandmother.png",
+      "imageURL": "./themaData_9/images/grandmother.jpg",
       "soundURL": "./themaData_9/sounds/grandmother.mp3",
       "youtubeURL": "https://youtu.be/FHaObkHEkHQ"
     },
     {
       "answer": "grandparents",
       "items": ["parents","grandparents","uncle"],
-      "imageURL": "./themaData_9/images/grandparents.png",
+      "imageURL": "./themaData_9/images/grandparents.jpg",
       "soundURL": "./themaData_9/sounds/grandparents.mp3",
       "youtubeURL": "https://youtu.be/FHaObkHEkHQ"
     },
     {
       "answer": "father",
       "items": ["aunt","brother","father"],
-      "imageURL": "./themaData_9/images/father.png",
+      "imageURL": "./themaData_9/images/father.jpg",
       "soundURL": "./themaData_9/sounds/father.mp3",
       "youtubeURL": "https://youtu.be/FHaObkHEkHQ"
     },
     {
       "answer": "mother",
       "items": ["mother","me","sister"],
-      "imageURL": "./themaData_9/images/mother.png",
+      "imageURL": "./themaData_9/images/mother.jpg",
       "soundURL": "./themaData_9/sounds/mother.mp3",
       "youtubeURL": "https://youtu.be/FHaObkHEkHQ"
     },
     {
       "answer": "parents",
       "items": ["cousin","grandfather","parents"],
-      "imageURL": "./themaData_9/images/parents.png",
+      "imageURL": "./themaData_9/images/parents.jpg",
       "soundURL": "./themaData_9/sounds/parents.mp3",
       "youtubeURL": "https://youtu.be/FHaObkHEkHQ"
     },
     {
       "answer": "uncle",
       "items": ["grandmother","father","uncle"],
-      "imageURL": "./themaData_9/images/uncle.png",
+      "imageURL": "./themaData_9/images/uncle.jpg",
       "soundURL": "./themaData_9/sounds/uncle.mp3",
       "youtubeURL": "https://youtu.be/FHaObkHEkHQ"
     },
     {
       "answer": "aunt",
       "items": ["aunt","mother","brother"],
-      "imageURL": "./themaData_9/images/aunt.png",
+      "imageURL": "./themaData_9/images/aunt.jpg",
       "soundURL": "./themaData_9/sounds/aunt.mp3",
       "youtubeURL": "https://youtu.be/FHaObkHEkHQ"
     },
     {
       "answer": "brother",
       "items": ["brother","me","sister"],
-      "imageURL": "./themaData_9/images/brother.png",
+      "imageURL": "./themaData_9/images/brother.jpg",
       "soundURL": "./themaData_9/sounds/brother.mp3",
       "youtubeURL": "https://youtu.be/FHaObkHEkHQ"
     },
     {
       "answer": "me",
       "items": ["cousin","me","grandfather"],
-      "imageURL": "./themaData_9/images/me.png",
+      "imageURL": "./themaData_9/images/me.jpg",
       "soundURL": "./themaData_9/sounds/me.mp3",
       "youtubeURL": "https://youtu.be/FHaObkHEkHQ"
     },
     {
       "answer": "sister",
       "items": ["grandmother","father","sister"],
-      "imageURL": "./themaData_9/images/sister.png",
+      "imageURL": "./themaData_9/images/sister.jpg",
       "soundURL": "./themaData_9/sounds/sister.mp3",
       "youtubeURL": "https://youtu.be/FHaObkHEkHQ"
     },
     {
       "answer": "cousin",
       "items": ["mother","parents","cousin"],
-      "imageURL": "./themaData_9/images/cousin.png",
+      "imageURL": "./themaData_9/images/cousin.jpg",
       "soundURL": "./themaData_9/sounds/cousin.mp3",
       "youtubeURL": "https://youtu.be/FHaObkHEkHQ"
     }

@@ -11,70 +11,70 @@
     {
       "answer": "one",
       "items": ["one","two","three"],
-      "imageURL": "./themaData_12/images/one.png",
+      "imageURL": "./themaData_12/images/one.jpg",
       "soundURL": "./themaData_12/sounds/one.mp3",
       "youtubeURL": "https://youtu.be/Lu8E13_Irm8"
     },
     {
       "answer": "two",
       "items": ["four","two","five"],
-      "imageURL": "./themaData_12/images/two.png",
+      "imageURL": "./themaData_12/images/two.jpg",
       "soundURL": "./themaData_12/sounds/two.mp3",
       "youtubeURL": "https://youtu.be/Lu8E13_Irm8"
     },
     {
       "answer": "three",
       "items": ["six","three","seven"],
-      "imageURL": "./themaData_12/images/three.png",
+      "imageURL": "./themaData_12/images/three.jpg",
       "soundURL": "./themaData_12/sounds/three.mp3",
       "youtubeURL": "https://youtu.be/Lu8E13_Irm8"
     },
     {
       "answer": "four",
       "items": ["eight","nine","four"],
-      "imageURL": "./themaData_12/images/four.png",
+      "imageURL": "./themaData_12/images/four.jpg",
       "soundURL": "./themaData_12/sounds/four.mp3",
       "youtubeURL": "https://youtu.be/Lu8E13_Irm8"
     },
     {
       "answer": "five",
       "items": ["five","ten","one"],
-      "imageURL": "./themaData_12/images/five.png",
+      "imageURL": "./themaData_12/images/five.jpg",
       "soundURL": "./themaData_12/sounds/five.mp3",
       "youtubeURL": "https://youtu.be/Lu8E13_Irm8"
     },
     {
       "answer": "six",
       "items": ["six","two","three"],
-      "imageURL": "./themaData_12/images/six.png",
+      "imageURL": "./themaData_12/images/six.jpg",
       "soundURL": "./themaData_12/sounds/six.mp3",
       "youtubeURL": "https://youtu.be/Lu8E13_Irm8"
     },
     {
       "answer": "seven",
       "items": ["four","five","seven"],
-      "imageURL": "./themaData_12/images/seven.png",
+      "imageURL": "./themaData_12/images/seven.jpg",
       "soundURL": "./themaData_12/sounds/seven.mp3",
       "youtubeURL": "https://youtu.be/Lu8E13_Irm8"
     },
     {
       "answer": "eight",
       "items": ["six","eight","seven"],
-      "imageURL": "./themaData_12/images/eight.png",
+      "imageURL": "./themaData_12/images/eight.jpg",
       "soundURL": "./themaData_12/sounds/eight.mp3",
       "youtubeURL": "https://youtu.be/Lu8E13_Irm8"
     },
     {
       "answer": "nine",
       "items": ["nine","ten","one"],
-      "imageURL": "./themaData_12/images/nine.png",
+      "imageURL": "./themaData_12/images/nine.jpg",
       "soundURL": "./themaData_12/sounds/nine.mp3",
       "youtubeURL": "https://youtu.be/Lu8E13_Irm8"
     },
     {
       "answer": "ten",
       "items": ["two","ten","three"],
-      "imageURL": "./themaData_12/images/ten.png",
+      "imageURL": "./themaData_12/images/ten.jpg",
       "soundURL": "./themaData_12/sounds/ten.mp3",
       "youtubeURL": "https://youtu.be/Lu8E13_Irm8"
     }

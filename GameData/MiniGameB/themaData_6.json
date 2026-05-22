@@ -11,91 +11,91 @@
     {
       "answer": "walk",
       "items": ["stomp","walk","waddle"],
-      "imageURL": "./themaData_6/images/walk.png",
+      "imageURL": "./themaData_6/images/walk.jpg",
       "soundURL": "./themaData_6/sounds/walk.mp3",
       "youtubeURL": "https://youtu.be/d8SbAkn3uvs"
     },
     {
       "answer": "stomp",
       "items": ["stand","stomp","run"],
-      "imageURL": "./themaData_6/images/stomp.png",
+      "imageURL": "./themaData_6/images/stomp.jpg",
       "soundURL": "./themaData_6/sounds/stomp.mp3",
       "youtubeURL": "https://youtu.be/d8SbAkn3uvs"
     },
     {
       "answer": "waddle",
       "items": ["waddle","jump","hop"],
-      "imageURL": "./themaData_6/images/waddle.png",
+      "imageURL": "./themaData_6/images/waddle.jpg",
       "soundURL": "./themaData_6/sounds/waddle.mp3",
       "youtubeURL": "https://youtu.be/d8SbAkn3uvs"
     },
     {
       "answer": "stand",
       "items": ["fly","dance","stand"],
-      "imageURL": "./themaData_6/images/stand.png",
+      "imageURL": "./themaData_6/images/stand.jpg",
       "soundURL": "./themaData_6/sounds/stand.mp3",
       "youtubeURL": "https://youtu.be/d8SbAkn3uvs"
     },
     {
       "answer": "run",
       "items": ["climb","fart","run"],
-      "imageURL": "./themaData_6/images/run.png",
+      "imageURL": "./themaData_6/images/run.jpg",
       "soundURL": "./themaData_6/sounds/run.mp3",
       "youtubeURL": "https://youtu.be/d8SbAkn3uvs"
     },
     {
       "answer": "jump",
       "items": ["jump","clap","swim"],
-      "imageURL": "./themaData_6/images/jump.png",
+      "imageURL": "./themaData_6/images/jump.jpg",
       "soundURL": "./themaData_6/sounds/jump.mp3",
       "youtubeURL": "https://youtu.be/d8SbAkn3uvs"
     },
     {
       "answer": "hop",
       "items": ["hop","walk","stomp"],
-      "imageURL": "./themaData_6/images/hop.png",
+      "imageURL": "./themaData_6/images/hop.jpg",
       "soundURL": "./themaData_6/sounds/hop.mp3",
       "youtubeURL": "https://youtu.be/d8SbAkn3uvs"
     },
     {
       "answer": "fly",
       "items": ["waddle","stand","fly"],
-      "imageURL": "./themaData_6/images/fly.png",
+      "imageURL": "./themaData_6/images/fly.jpg",
       "soundURL": "./themaData_6/sounds/fly.mp3",
       "youtubeURL": "https://youtu.be/d8SbAkn3uvs"
     },
     {
       "answer": "dance",
       "items": ["run","jump","dance"],
-      "imageURL": "./themaData_6/images/dance.png",
+      "imageURL": "./themaData_6/images/dance.jpg",
       "soundURL": "./themaData_6/sounds/dance.mp3",
       "youtubeURL": "https://youtu.be/d8SbAkn3uvs"
     },
     {
       "answer": "climb",
       "items": ["hop","fly","climb"],
-      "imageURL": "./themaData_6/images/climb.png",
+      "imageURL": "./themaData_6/images/climb.jpg",
       "soundURL": "./themaData_6/sounds/climb.mp3",
       "youtubeURL": "https://youtu.be/d8SbAkn3uvs"
     },
     {
       "answer": "fart",
       "items": ["dance","fart","climb"],
-      "imageURL": "./themaData_6/images/fart.png",
+      "imageURL": "./themaData_6/images/fart.jpg",
       "soundURL": "./themaData_6/sounds/fart.mp3",
       "youtubeURL": "https://youtu.be/d8SbAkn3uvs"
     },
     {
       "answer": "clap",
       "items": ["clap","swim","walk"],
-      "imageURL": "./themaData_6/images/clap.png",
+      "imageURL": "./themaData_6/images/clap.jpg",
       "soundURL": "./themaData_6/sounds/clap.mp3",
       "youtubeURL": "https://youtu.be/d8SbAkn3uvs"
     },
     {
       "answer": "swim",
       "items": ["stomp","swim","waddle"],
-      "imageURL": "./themaData_6/images/swim.png",
+      "imageURL": "./themaData_6/images/swim.jpg",
       "soundURL": "./themaData_6/sounds/swim.mp3",
       "youtubeURL": "https://youtu.be/d8SbAkn3uvs"
     }

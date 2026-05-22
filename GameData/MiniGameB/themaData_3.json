@@ -11,119 +11,119 @@
     {
       "answer": "airplane",
       "items": ["ambulance","airplane","bicycle"],
-      "imageURL": "./themaData_3/images/airplane.png",
+      "imageURL": "./themaData_3/images/airplane.jpg",
       "soundURL": "./themaData_3/sounds/airplane.mp3",
       "youtubeURL": "https://youtu.be/lcdWNmvvyew"
     },
     {
       "answer": "ambulance",
       "items": ["ambulance","boat","bus"],
-      "imageURL": "./themaData_3/images/ambulance.png",
+      "imageURL": "./themaData_3/images/ambulance.jpg",
       "soundURL": "./themaData_3/sounds/ambulance.mp3",
       "youtubeURL": "https://youtu.be/lcdWNmvvyew"
     },
     {
       "answer": "bicycle",
       "items": ["carrot","fire truck","bicycle"],
-      "imageURL": "./themaData_3/images/bicycle.png",
+      "imageURL": "./themaData_3/images/bicycle.jpg",
       "soundURL": "./themaData_3/sounds/bicycle.mp3",
       "youtubeURL": "https://youtu.be/lcdWNmvvyew"
     },
     {
       "answer": "boat",
       "items": ["helicopter","boat","hot air balloon"],
-      "imageURL": "./themaData_3/images/boat.png",
+      "imageURL": "./themaData_3/images/boat.jpg",
       "soundURL": "./themaData_3/sounds/boat.mp3",
       "youtubeURL": "https://youtu.be/lcdWNmvvyew"
     },
     {
       "answer": "bus",
       "items": ["motorcycle","police car","bus"],
-      "imageURL": "./themaData_3/images/bus.png",
+      "imageURL": "./themaData_3/images/bus.jpg",
       "soundURL": "./themaData_3/sounds/bus.mp3",
       "youtubeURL": "https://youtu.be/lcdWNmvvyew"
     },
     {
       "answer": "carrot",
       "items": ["ship","carrot","spaceship"],
-      "imageURL": "./themaData_3/images/carrot.png",
+      "imageURL": "./themaData_3/images/carrot.jpg",
       "soundURL": "./themaData_3/sounds/carrot.mp3",
       "youtubeURL": "https://youtu.be/lcdWNmvvyew"
     },
     {
       "answer": "fire truck",
       "items": ["fire truck","submarine","taxi"],
-      "imageURL": "./themaData_3/images/fire_truck.png",
+      "imageURL": "./themaData_3/images/fire_truck.jpg",
       "soundURL": "./themaData_3/sounds/fire_truck.mp3",
       "youtubeURL": "https://youtu.be/lcdWNmvvyew"
     },
     {
       "answer": "helicopter",
       "items": ["train","truck","helicopter"],
-      "imageURL": "./themaData_3/images/helicopter.png",
+      "imageURL": "./themaData_3/images/helicopter.jpg",
       "soundURL": "./themaData_3/sounds/helicopter.mp3",
       "youtubeURL": "https://youtu.be/lcdWNmvvyew"
     },
     {
       "answer": "hot air balloon",
       "items": ["airplane","hot air balloon","ambulance"],
-      "imageURL": "./themaData_3/images/hot_air_balloon.png",
+      "imageURL": "./themaData_3/images/hot_air_balloon.jpg",
       "soundURL": "./themaData_3/sounds/hot_air_balloon.mp3",
       "youtubeURL": "https://youtu.be/lcdWNmvvyew"
     },
     {
       "answer": "motorcycle",
       "items": ["motorcycle","bicycle","boat"],
-      "imageURL": "./themaData_3/images/motorcycle.png",
+      "imageURL": "./themaData_3/images/motorcycle.jpg",
       "soundURL": "./themaData_3/sounds/motorcycle.mp3",
       "youtubeURL": "https://youtu.be/lcdWNmvvyew"
     },
     {
       "answer": "police car",
       "items": ["bus","fire truck","police car"],
-      "imageURL": "./themaData_3/images/police_car.png",
+      "imageURL": "./themaData_3/images/police_car.jpg",
       "soundURL": "./themaData_3/sounds/police_car.mp3",
       "youtubeURL": "https://youtu.be/lcdWNmvvyew"
     },
     {
       "answer": "ship",
       "items": ["helicopter","ship","hot air balloon"],
-      "imageURL": "./themaData_3/images/ship.png",
+      "imageURL": "./themaData_3/images/ship.jpg",
       "soundURL": "./themaData_3/sounds/ship.mp3",
       "youtubeURL": "https://youtu.be/lcdWNmvvyew"
     },
     {
       "answer": "spaceship",
       "items": ["motorcycle","spaceship","police car"],
-      "imageURL": "./themaData_3/images/spaceship.png",
+      "imageURL": "./themaData_3/images/spaceship.jpg",
       "soundURL": "./themaData_3/sounds/spaceship.mp3",
       "youtubeURL": "https://youtu.be/lcdWNmvvyew"
     },
     {
       "answer": "submarine",
       "items": ["taxi","train","submarine"],
-      "imageURL": "./themaData_3/images/submarine.png",
+      "imageURL": "./themaData_3/images/submarine.jpg",
       "soundURL": "./themaData_3/sounds/submarine.mp3",
       "youtubeURL": "https://youtu.be/lcdWNmvvyew"
     },
     {
       "answer": "taxi",
       "items": ["taxi","truck","airplane"],
-      "imageURL": "./themaData_3/images/taxi.png",
+      "imageURL": "./themaData_3/images/taxi.jpg",
       "soundURL": "./themaData_3/sounds/taxi.mp3",
       "youtubeURL": "https://youtu.be/lcdWNmvvyew"
     },
     {
       "answer": "train",
       "items": ["ambulance","train","bicycle"],
-      "imageURL": "./themaData_3/images/train.png",
+      "imageURL": "./themaData_3/images/train.jpg",
       "soundURL": "./themaData_3/sounds/train.mp3",
       "youtubeURL": "https://youtu.be/lcdWNmvvyew"
     },
     {
       "answer": "truck",
       "items": ["truck","boat","bus"],
-      "imageURL": "./themaData_3/images/truck.png",
+      "imageURL": "./themaData_3/images/truck.jpg",
       "soundURL": "./themaData_3/sounds/truck.mp3",
       "youtubeURL": "https://youtu.be/lcdWNmvvyew"
     }

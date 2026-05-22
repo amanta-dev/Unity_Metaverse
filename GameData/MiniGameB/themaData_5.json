@@ -11,98 +11,98 @@
     {
       "answer": "artist",
       "items": ["carpenter","artist","cook"],
-      "imageURL": "./themaData_5/images/artist.png",
+      "imageURL": "./themaData_5/images/artist.jpg",
       "soundURL": "./themaData_5/sounds/artist.mp3",
       "youtubeURL": "https://youtu.be/R69YKFmlcnA"
     },
     {
       "answer": "carpenter",
       "items": ["doctor","engineer","carpenter"],
-      "imageURL": "./themaData_5/images/carpenter.png",
+      "imageURL": "./themaData_5/images/carpenter.jpg",
       "soundURL": "./themaData_5/sounds/carpenter.mp3",
       "youtubeURL": "https://youtu.be/R69YKFmlcnA"
     },
     {
       "answer": "cook",
       "items": ["cook","farmer","fire fighter"],
-      "imageURL": "./themaData_5/images/cook.png",
+      "imageURL": "./themaData_5/images/cook.jpg",
       "soundURL": "./themaData_5/sounds/cook.mp3",
       "youtubeURL": "https://youtu.be/R69YKFmlcnA"
     },
     {
       "answer": "doctor",
       "items": ["hairdresser","pilot","doctor"],
-      "imageURL": "./themaData_5/images/doctor.png",
+      "imageURL": "./themaData_5/images/doctor.jpg",
       "soundURL": "./themaData_5/sounds/doctor.mp3",
       "youtubeURL": "https://youtu.be/R69YKFmlcnA"
     },
     {
       "answer": "engineer",
       "items": ["police officer","scientist","engineer"],
-      "imageURL": "./themaData_5/images/engineer.png",
+      "imageURL": "./themaData_5/images/engineer.jpg",
       "soundURL": "./themaData_5/sounds/engineer.mp3",
       "youtubeURL": "https://youtu.be/R69YKFmlcnA"
     },
     {
       "answer": "farmer",
       "items": ["farmer","singer","teacher"],
-      "imageURL": "./themaData_5/images/farmer.png",
+      "imageURL": "./themaData_5/images/farmer.jpg",
       "soundURL": "./themaData_5/sounds/farmer.mp3",
       "youtubeURL": "https://youtu.be/R69YKFmlcnA"
     },
     {
       "answer": "fire fighter",
       "items": ["vet","fire fighter","artist"],
-      "imageURL": "./themaData_5/images/fire_fighter.png",
+      "imageURL": "./themaData_5/images/fire_fighter.jpg",
       "soundURL": "./themaData_5/sounds/fire_fighter.mp3",
       "youtubeURL": "https://youtu.be/R69YKFmlcnA"
     },
     {
       "answer": "hairdresser",
       "items": ["carpenter","hairdresser","cook"],
-      "imageURL": "./themaData_5/images/hairdresser.png",
+      "imageURL": "./themaData_5/images/hairdresser.jpg",
       "soundURL": "./themaData_5/sounds/hairdresser.mp3",
       "youtubeURL": "https://youtu.be/R69YKFmlcnA"
     },
     {
       "answer": "pilot",
       "items": ["pilot","doctor","engineer"],
-      "imageURL": "./themaData_5/images/pilot.png",
+      "imageURL": "./themaData_5/images/pilot.jpg",
       "soundURL": "./themaData_5/sounds/pilot.mp3",
       "youtubeURL": "https://youtu.be/R69YKFmlcnA"
     },
     {
       "answer": "police officer",
       "items": ["police officer","farmer","fire fighter"],
-      "imageURL": "./themaData_5/images/police_officer.png",
+      "imageURL": "./themaData_5/images/police_officer.jpg",
       "soundURL": "./themaData_5/sounds/police_officer.mp3",
       "youtubeURL": "https://youtu.be/R69YKFmlcnA"
     },
     {
       "answer": "scientist",
       "items": ["hairdresser","singer","scientist"],
-      "imageURL": "./themaData_5/images/scientist.png",
+      "imageURL": "./themaData_5/images/scientist.jpg",
       "soundURL": "./themaData_5/sounds/scientist.mp3",
       "youtubeURL": "https://youtu.be/R69YKFmlcnA"
     },
     {
       "answer": "singer",
       "items": ["teacher","vet","singer"],
-      "imageURL": "./themaData_5/images/singer.png",
+      "imageURL": "./themaData_5/images/singer.jpg",
       "soundURL": "./themaData_5/sounds/singer.mp3",
       "youtubeURL": "https://youtu.be/R69YKFmlcnA"
     },
     {
       "answer": "teacher",
       "items": ["teacher","artist","carpenter"],
-      "imageURL": "./themaData_5/images/teacher.png",
+      "imageURL": "./themaData_5/images/teacher.jpg",
       "soundURL": "./themaData_5/sounds/teacher.mp3",
       "youtubeURL": "https://youtu.be/R69YKFmlcnA"
     },
     {
       "answer": "vet",
       "items": ["cook","vet","doctor"],
-      "imageURL": "./themaData_5/images/vet.png",
+      "imageURL": "./themaData_5/images/vet.jpg",
       "soundURL": "./themaData_5/sounds/vet.mp3",
       "youtubeURL": "https://youtu.be/R69YKFmlcnA"
     }

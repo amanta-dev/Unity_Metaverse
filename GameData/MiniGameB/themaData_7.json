@@ -11,98 +11,98 @@
     {
       "answer": "bakery",
       "items": ["bank","bus stop","bakery"],
-      "imageURL": "./themaData_7/images/bakery.png",
+      "imageURL": "./themaData_7/images/bakery.jpg",
       "soundURL": "./themaData_7/sounds/bakery.mp3",
       "youtubeURL": "https://youtu.be/EfD2k9beP-4"
     },
     {
       "answer": "bank",
       "items": ["bank","fire station","hospital"],
-      "imageURL": "./themaData_7/images/bank.png",
+      "imageURL": "./themaData_7/images/bank.jpg",
       "soundURL": "./themaData_7/sounds/bank.mp3",
       "youtubeURL": "https://youtu.be/EfD2k9beP-4"
     },
     {
       "answer": "bus stop",
       "items": ["bus stop","library","museum"],
-      "imageURL": "./themaData_7/images/bus_stop.png",
+      "imageURL": "./themaData_7/images/bus_stop.jpg",
       "soundURL": "./themaData_7/sounds/bus_stop.mp3",
       "youtubeURL": "https://youtu.be/EfD2k9beP-4"
     },
     {
       "answer": "fire station",
       "items": ["fire station","park","police office"],
-      "imageURL": "./themaData_7/images/fire_station.png",
+      "imageURL": "./themaData_7/images/fire_station.jpg",
       "soundURL": "./themaData_7/sounds/fire_station.mp3",
       "youtubeURL": "https://youtu.be/EfD2k9beP-4"
     },
     {
       "answer": "hospital",
       "items": ["post office","restaurant","hospital"],
-      "imageURL": "./themaData_7/images/hospital.png",
+      "imageURL": "./themaData_7/images/hospital.jpg",
       "soundURL": "./themaData_7/sounds/hospital.mp3",
       "youtubeURL": "https://youtu.be/EfD2k9beP-4"
     },
     {
       "answer": "library",
       "items": ["school","library","supermarket"],
-      "imageURL": "./themaData_7/images/library.png",
+      "imageURL": "./themaData_7/images/library.jpg",
       "soundURL": "./themaData_7/sounds/library.mp3",
       "youtubeURL": "https://youtu.be/EfD2k9beP-4"
     },
     {
       "answer": "museum",
       "items": ["theater","bakery","museum"],
-      "imageURL": "./themaData_7/images/museum.png",
+      "imageURL": "./themaData_7/images/museum.jpg",
       "soundURL": "./themaData_7/sounds/museum.mp3",
       "youtubeURL": "https://youtu.be/EfD2k9beP-4"
     },
     {
       "answer": "park",
       "items": ["park","bank","bus stop"],
-      "imageURL": "./themaData_7/images/park.png",
+      "imageURL": "./themaData_7/images/park.jpg",
       "soundURL": "./themaData_7/sounds/park.mp3",
       "youtubeURL": "https://youtu.be/EfD2k9beP-4"
     },
     {
       "answer": "police office",
       "items": ["fire station","police office","hospital"],
-      "imageURL": "./themaData_7/images/police_office.png",
+      "imageURL": "./themaData_7/images/police_office.jpg",
       "soundURL": "./themaData_7/sounds/police_office.mp3",
       "youtubeURL": "https://youtu.be/EfD2k9beP-4"
     },
     {
       "answer": "post office",
       "items": ["library","post office","museum"],
-      "imageURL": "./themaData_7/images/post_office.png",
+      "imageURL": "./themaData_7/images/post_office.jpg",
       "soundURL": "./themaData_7/sounds/post_office.mp3",
       "youtubeURL": "https://youtu.be/EfD2k9beP-4"
     },
     {
       "answer": "restaurant",
       "items": ["park","police office","restaurant"],
-      "imageURL": "./themaData_7/images/restaurant.png",
+      "imageURL": "./themaData_7/images/restaurant.jpg",
       "soundURL": "./themaData_7/sounds/restaurant.mp3",
       "youtubeURL": "https://youtu.be/EfD2k9beP-4"
     },
     {
       "answer": "school",
       "items": ["school","supermarket","theater"],
-      "imageURL": "./themaData_7/images/school.png",
+      "imageURL": "./themaData_7/images/school.jpg",
       "soundURL": "./themaData_7/sounds/school.mp3",
       "youtubeURL": "https://youtu.be/EfD2k9beP-4"
     },
     {
       "answer": "supermarket",
       "items": ["bakery","supermarket","bank"],
-      "imageURL": "./themaData_7/images/supermarket.png",
+      "imageURL": "./themaData_7/images/supermarket.jpg",
       "soundURL": "./themaData_7/sounds/supermarket.mp3",
       "youtubeURL": "https://youtu.be/EfD2k9beP-4"
     },
     {
       "answer": "theater",
       "items": ["theater","bus stop","fire station"],
-      "imageURL": "./themaData_7/images/theater.png",
+      "imageURL": "./themaData_7/images/theater.jpg",
       "soundURL": "./themaData_7/sounds/theater.mp3",
       "youtubeURL": "https://youtu.be/EfD2k9beP-4"
     }
