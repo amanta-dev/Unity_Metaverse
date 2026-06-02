@@ -1,9 +1,9 @@
 *
 
 # Builds/WebGL 허용
-!Builds/
-!Builds/WebGL/
-!Builds/WebGL/**
+# !Builds/
+# !Builds/WebGL/
+# !Builds/WebGL/**
 
 # GameData 허용
 !GameData/
