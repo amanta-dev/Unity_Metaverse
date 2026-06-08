@@ -8,3 +8,7 @@
 # GameData 허용
 !GameData/
 !GameData/**
+
+# docs 허용 (GitHub Pages — 개인정보처리방침/약관)
+!docs/
+!docs/**
