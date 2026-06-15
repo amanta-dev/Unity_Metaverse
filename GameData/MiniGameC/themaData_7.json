@@ -12,17 +12,17 @@
         {
           "question": "Mom, I want to ____ ice cream.",
           "answer": "eat",
-          "soundURL": ""
+          "soundURL": "./themaData_7/sounds/Problem Solving_01.mp3"
         },
         {
           "question": "Where is the ice cream shop?",
           "answer": "It's next to the supermarket.",
-          "soundURL": ""
+          "soundURL": "./themaData_7/sounds/Problem Solving_02.mp3"
         },
         {
           "question": "_____ is the restroom?",
           "answer": "Where",
-          "soundURL": ""
+          "soundURL": "./themaData_7/sounds/Problem Solving_03.mp3"
         }
       ],
       "youtubeURL": "https://www.youtube.com/playlist?list=PLii5rkhsE0Ld3xCgxG6j5fw7RlG2S5czO"
@@ -32,17 +32,17 @@
         {
           "question": "Can you _____ me?",
           "answer": "help",
-          "soundURL": ""
+          "soundURL": "./themaData_7/sounds/Problem Solving_04.mp3"
         },
         {
           "question": "Please ____ this letter to the post office.",
           "answer": "take",
-          "soundURL": ""
+          "soundURL": "./themaData_7/sounds/Problem Solving_05.mp3"
         },
         {
           "question": "________ the post office?",
           "answer": "Where's",
-          "soundURL": ""
+          "soundURL": "./themaData_7/sounds/Problem Solving_06.mp3"
         }
       ],
       "youtubeURL": "https://www.youtube.com/playlist?list=PLii5rkhsE0Ld3xCgxG6j5fw7RlG2S5czO"
@@ -52,17 +52,17 @@
         {
           "question": "_________ me. Where is the post office?",
           "answer": "Excuse",
-          "soundURL": ""
+          "soundURL": "./themaData_7/sounds/Problem Solving_07.mp3"
         },
         {
           "question": "I have science homework.",
           "answer": "Me, too.",
-          "soundURL": ""
+          "soundURL": "./themaData_7/sounds/Problem Solving_08.mp3"
         },
         {
           "question": "Where's the science museum?",
           "answer": "I don't know. Let's ask for help.",
-          "soundURL": ""
+          "soundURL": "./themaData_7/sounds/Problem Solving_09.mp3"
         }
       ],
       "youtubeURL": "https://www.youtube.com/playlist?list=PLii5rkhsE0Ld3xCgxG6j5fw7RlG2S5czO"
@@ -72,17 +72,17 @@
         {
           "question": "Thank you very much.",
           "answer": "You're welcome.",
-          "soundURL": ""
+          "soundURL": "./themaData_7/sounds/Problem Solving_10.mp3"
         },
         {
           "question": "Where are you going?",
           "answer": "I'm going to the library.",
-          "soundURL": ""
+          "soundURL": "./themaData_7/sounds/Problem Solving_11.mp3"
         },
         {
           "question": "Can you show me first?",
           "answer": "Sure!",
-          "soundURL": ""
+          "soundURL": "./themaData_7/sounds/Problem Solving_12.mp3"
         }
       ],
       "youtubeURL": "https://www.youtube.com/playlist?list=PLii5rkhsE0Ld3xCgxG6j5fw7RlG2S5czO"
@@ -92,22 +92,22 @@
         {
           "question": "Do you _____ where Rora is?",
           "answer": "know",
-          "soundURL": ""
+          "soundURL": "./themaData_7/sounds/Problem Solving_13.mp3"
         },
         {
           "question": "Excuse me. I'm looking for my little sister.",
           "answer": "Okay. Don't worry. What's her name?",
-          "soundURL": ""
+          "soundURL": "./themaData_7/sounds/Problem Solving_14.mp3"
         },
         {
           "question": "What does she look like?",
           "answer": "She has short curly hair.",
-          "soundURL": ""
+          "soundURL": "./themaData_7/sounds/Problem Solving_15.mp3"
         },
         {
           "question": "What does she _____ like?",
           "answer": "look",
-          "soundURL": ""
+          "soundURL": "./themaData_7/sounds/Problem Solving_16.mp3"
         }
       ],
       "youtubeURL": "https://www.youtube.com/playlist?list=PLii5rkhsE0Ld3xCgxG6j5fw7RlG2S5czO"

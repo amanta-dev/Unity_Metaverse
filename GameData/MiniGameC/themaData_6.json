@@ -12,17 +12,17 @@
         {
           "question": "Mia, can you pass me the salad, ______?",
           "answer": "please",
-          "soundURL": ""
+          "soundURL": "./themaData_6/sounds/Out&About2_01.mp3"
         },
         {
           "question": "May I have some more?",
           "answer": "Sure.",
-          "soundURL": ""
+          "soundURL": "./themaData_6/sounds/Out&About2_02.mp3"
         },
         {
           "question": "Do you want some ____, Lily?",
           "answer": "more",
-          "soundURL": ""
+          "soundURL": "./themaData_6/sounds/Out&About2_03.mp3"
         }
       ],
       "youtubeURL": "https://www.youtube.com/playlist?list=PLii5rkhsE0Ld3xCgxG6j5fw7RlG2S5czO"
@@ -32,17 +32,17 @@
         {
           "question": "_______ I visit again?",
           "answer": "May",
-          "soundURL": ""
+          "soundURL": "./themaData_6/sounds/Out&About2_04.mp3"
         },
         {
           "question": "Do you like riding the bike?",
           "answer": "Yes, I do. I ride it every morning.",
-          "soundURL": ""
+          "soundURL": "./themaData_6/sounds/Out&About2_05.mp3"
         },
         {
           "question": "What time do you get up?",
           "answer": "I get up at six.",
-          "soundURL": ""
+          "soundURL": "./themaData_6/sounds/Out&About2_06.mp3"
         }
       ],
       "youtubeURL": "https://www.youtube.com/playlist?list=PLii5rkhsE0Ld3xCgxG6j5fw7RlG2S5czO"
@@ -52,17 +52,17 @@
         {
           "question": "________ bike is this?",
           "answer": "Whose",
-          "soundURL": ""
+          "soundURL": "./themaData_6/sounds/Out&About2_07.mp3"
         },
         {
           "question": "Noah, is this your bike?",
           "answer": "Yes, it's mine.",
-          "soundURL": ""
+          "soundURL": "./themaData_6/sounds/Out&About2_08.mp3"
         },
         {
           "question": "What class is next?",
           "answer": "Math.",
-          "soundURL": ""
+          "soundURL": "./themaData_6/sounds/Out&About2_09.mp3"
         }
       ],
       "youtubeURL": "https://www.youtube.com/playlist?list=PLii5rkhsE0Ld3xCgxG6j5fw7RlG2S5czO"
@@ -72,17 +72,17 @@
         {
           "question": "What's your favorite subject?",
           "answer": "My favorite subject is P.E.",
-          "soundURL": ""
+          "soundURL": "./themaData_6/sounds/Out&About2_10.mp3"
         },
         {
           "question": "I play basketball every day.",
           "answer": "I like basketball too, but I can't play well.",
-          "soundURL": ""
+          "soundURL": "./themaData_6/sounds/Out&About2_11.mp3"
         },
         {
           "question": "I like basketball too, but I ______ play well.",
           "answer": "can't",
-          "soundURL": ""
+          "soundURL": "./themaData_6/sounds/Out&About2_12.mp3"
         }
       ],
       "youtubeURL": "https://www.youtube.com/playlist?list=PLii5rkhsE0Ld3xCgxG6j5fw7RlG2S5czO"
@@ -92,17 +92,17 @@
         {
           "question": "How about playing basketball after school?",
           "answer": "That's a good idea.",
-          "soundURL": ""
+          "soundURL": "./themaData_6/sounds/Out&About2_13.mp3"
         },
         {
           "question": "What did you do yesterday?",
           "answer": "I went to the park with Chloe.",
-          "soundURL": ""
+          "soundURL": "./themaData_6/sounds/Out&About2_14.mp3"
         },
         {
           "question": "How was your summer vacation?",
           "answer": "It was great. I went to Hawaii with my family.",
-          "soundURL": ""
+          "soundURL": "./themaData_6/sounds/Out&About2_15.mp3"
         }
       ],
       "youtubeURL": "https://www.youtube.com/playlist?list=PLii5rkhsE0Ld3xCgxG6j5fw7RlG2S5czO"
@@ -112,17 +112,17 @@
         {
           "question": "Good morning, Mia. How are you?",
           "answer": "I'm not okay. I have a toothache.",
-          "soundURL": ""
+          "soundURL": "./themaData_6/sounds/Out&About2_16.mp3"
         },
         {
           "question": "Don't eat too many sweets and brush your teeth _______.",
           "answer": "everyday",
-          "soundURL": ""
+          "soundURL": "./themaData_6/sounds/Out&About2_17.mp3"
         },
         {
           "question": "Welcome. May I take your order?",
           "answer": "Yes. I'd like a hamburger, French fries, and a coke, please.",
-          "soundURL": ""
+          "soundURL": "./themaData_6/sounds/Out&About2_18.mp3"
         }
       ],
       "youtubeURL": "https://www.youtube.com/playlist?list=PLii5rkhsE0Ld3xCgxG6j5fw7RlG2S5czO"
@@ -132,22 +132,22 @@
         {
           "question": "May I take your _____?",
           "answer": "order",
-          "soundURL": ""
+          "soundURL": "./themaData_6/sounds/Out&About2_19.mp3"
         },
         {
           "question": "For here or to go?",
           "answer": "For here, please.",
-          "soundURL": ""
+          "soundURL": "./themaData_6/sounds/Out&About2_20.mp3"
         },
         {
           "question": "Enjoy your meal!",
           "answer": "Thank you.",
-          "soundURL": ""
+          "soundURL": "./themaData_6/sounds/Out&About2_21.mp3"
         },
         {
           "question": "Would you like something to drink?",
           "answer": "Two bottles of sparkling water, please.",
-          "soundURL": ""
+          "soundURL": "./themaData_6/sounds/Out&About2_22.mp3"
         }
       ],
       "youtubeURL": "https://www.youtube.com/playlist?list=PLii5rkhsE0Ld3xCgxG6j5fw7RlG2S5czO"

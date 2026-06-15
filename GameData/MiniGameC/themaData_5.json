@@ -12,17 +12,17 @@
         {
           "question": "What's that?",
           "answer": "It's my birthday invitation.",
-          "soundURL": ""
+          "soundURL": "./themaData_5/sounds/Out&About1_01.mp3"
         },
         {
           "question": "Can you ________ to my party?",
           "answer": "come",
-          "soundURL": ""
+          "soundURL": "./themaData_5/sounds/Out&About1_02.mp3"
         },
         {
           "question": "Happy birthday! This is for you.",
           "answer": "Thank you, everyone.",
-          "soundURL": ""
+          "soundURL": "./themaData_5/sounds/Out&About1_03.mp3"
         }
       ],
       "youtubeURL": "https://www.youtube.com/playlist?list=PLii5rkhsE0Ld3xCgxG6j5fw7RlG2S5czO"
@@ -32,17 +32,17 @@
         {
           "question": "Can ____ jump?",
           "answer": "you",
-          "soundURL": ""
+          "soundURL": "./themaData_5/sounds/Out&About1_04.mp3"
         },
         {
           "question": "I _______ to go camping.",
           "answer": "want",
-          "soundURL": ""
+          "soundURL": "./themaData_5/sounds/Out&About1_05.mp3"
         },
         {
           "question": "_______ go camping.",
           "answer": "Let's",
-          "soundURL": ""
+          "soundURL": "./themaData_5/sounds/Out&About1_06.mp3"
         }
       ],
       "youtubeURL": "https://www.youtube.com/playlist?list=PLii5rkhsE0Ld3xCgxG6j5fw7RlG2S5czO"
@@ -52,17 +52,17 @@
         {
           "question": "Let's go fishing.",
           "answer": "Sounds great!",
-          "soundURL": ""
+          "soundURL": "./themaData_5/sounds/Out&About1_07.mp3"
         },
         {
           "question": "How _________ is it?",
           "answer": "much",
-          "soundURL": ""
+          "soundURL": "./themaData_5/sounds/Out&About1_08.mp3"
         },
         {
           "question": "I want this bike. It looks nice.",
           "answer": "Okay, let's buy it.",
-          "soundURL": ""
+          "soundURL": "./themaData_5/sounds/Out&About1_09.mp3"
         }
       ],
       "youtubeURL": "https://www.youtube.com/playlist?list=PLii5rkhsE0Ld3xCgxG6j5fw7RlG2S5czO"
@@ -72,17 +72,17 @@
         {
           "question": "_____ I help you?",
           "answer": "May",
-          "soundURL": ""
+          "soundURL": "./themaData_5/sounds/Out&About1_10.mp3"
         },
         {
           "question": "What a ____day!",
           "answer": "nice",
-          "soundURL": ""
+          "soundURL": "./themaData_5/sounds/Out&About1_11.mp3"
         },
         {
           "question": "Wow, you are very tall.",
           "answer": "Thanks.",
-          "soundURL": ""
+          "soundURL": "./themaData_5/sounds/Out&About1_12.mp3"
         }
       ],
       "youtubeURL": "https://www.youtube.com/playlist?list=PLii5rkhsE0Ld3xCgxG6j5fw7RlG2S5czO"
@@ -92,17 +92,17 @@
         {
           "question": "I can ______ fast!",
           "answer": "run",
-          "soundURL": ""
+          "soundURL": "./themaData_5/sounds/Out&About1_13.mp3"
         },
         {
           "question": "I _____ make it!",
           "answer": "can",
-          "soundURL": ""
+          "soundURL": "./themaData_5/sounds/Out&About1_14.mp3"
         },
         {
           "question": "What a big tree!",
           "answer": "Yes, it's a very big tree.",
-          "soundURL": ""
+          "soundURL": "./themaData_5/sounds/Out&About1_15.mp3"
         }
       ],
       "youtubeURL": "https://www.youtube.com/playlist?list=PLii5rkhsE0Ld3xCgxG6j5fw7RlG2S5czO"
@@ -112,17 +112,17 @@
         {
           "question": "What are they looking at?",
           "answer": "I don't know. Let's go and see.",
-          "soundURL": ""
+          "soundURL": "./themaData_5/sounds/Out&About1_16.mp3"
         },
         {
           "question": "_________ a beautiful flower!",
           "answer": "What",
-          "soundURL": ""
+          "soundURL": "./themaData_5/sounds/Out&About1_17.mp3"
         },
         {
           "question": "Watch out! _______ touch that!",
           "answer": "Don't",
-          "soundURL": ""
+          "soundURL": "./themaData_5/sounds/Out&About1_18.mp3"
         }
       ],
       "youtubeURL": "https://www.youtube.com/playlist?list=PLii5rkhsE0Ld3xCgxG6j5fw7RlG2S5czO"

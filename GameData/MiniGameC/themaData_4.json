@@ -12,17 +12,17 @@
         {
           "question": "How many bears are _____?",
           "answer": "there",
-          "soundURL": ""
+          "soundURL": "./themaData_4/sounds/Nature&Animals_01.mp3"
         },
         {
           "question": "Then how many bears?",
           "answer": "There are three bears.",
-          "soundURL": ""
+          "soundURL": "./themaData_4/sounds/Nature&Animals_02.mp3"
         },
         {
           "question": "How ______ bears are there?",
           "answer": "many",
-          "soundURL": ""
+          "soundURL": "./themaData_4/sounds/Nature&Animals_03.mp3"
         }
       ],
       "youtubeURL": "https://www.youtube.com/playlist?list=PLii5rkhsE0Ld3xCgxG6j5fw7RlG2S5czO"
@@ -32,17 +32,17 @@
         {
           "question": "How many tigers are there?",
           "answer": "One, two, three, four, five. Five tigers.",
-          "soundURL": ""
+          "soundURL": "./themaData_4/sounds/Nature&Animals_04.mp3"
         },
         {
           "question": "Let's play _____.",
           "answer": "outside",
-          "soundURL": ""
+          "soundURL": "./themaData_4/sounds/Nature&Animals_05.mp3"
         },
         {
           "question": "Look! It's snowing.",
           "answer": "It's all white.",
-          "soundURL": ""
+          "soundURL": "./themaData_4/sounds/Nature&Animals_06.mp3"
         }
       ],
       "youtubeURL": "https://www.youtube.com/playlist?list=PLii5rkhsE0Ld3xCgxG6j5fw7RlG2S5czO"
@@ -52,17 +52,17 @@
         {
           "question": "Do you like snow?",
           "answer": "Yes, I do.",
-          "soundURL": ""
+          "soundURL": "./themaData_4/sounds/Nature&Animals_07.mp3"
         },
         {
           "question": "Can you make a snowman?",
           "answer": "Sure, I can.",
-          "soundURL": ""
+          "soundURL": "./themaData_4/sounds/Nature&Animals_08.mp3"
         },
         {
           "question": "Let's ______ it together.",
           "answer": "make",
-          "soundURL": ""
+          "soundURL": "./themaData_4/sounds/Nature&Animals_09.mp3"
         }
       ],
       "youtubeURL": "https://www.youtube.com/playlist?list=PLii5rkhsE0Ld3xCgxG6j5fw7RlG2S5czO"
@@ -72,17 +72,17 @@
         {
           "question": "Are you ______ a nice holiday?",
           "answer": "having",
-          "soundURL": ""
+          "soundURL": "./themaData_4/sounds/Nature&Animals_10.mp3"
         },
         {
           "question": "Where are you, Noah?",
           "answer": "I'm in London.",
-          "soundURL": ""
+          "soundURL": "./themaData_4/sounds/Nature&Animals_11.mp3"
         },
         {
           "question": "How's the weather there?",
           "answer": "It's rainy.",
-          "soundURL": ""
+          "soundURL": "./themaData_4/sounds/Nature&Animals_12.mp3"
         }
       ],
       "youtubeURL": "https://www.youtube.com/playlist?list=PLii5rkhsE0Ld3xCgxG6j5fw7RlG2S5czO"
@@ -92,17 +92,17 @@
         {
           "question": "I'm ___ Hawaii.",
           "answer": "in",
-          "soundURL": ""
+          "soundURL": "./themaData_4/sounds/Nature&Animals_13.mp3"
         },
         {
           "question": "How's the ________ there?",
           "answer": "weather",
-          "soundURL": ""
+          "soundURL": "./themaData_4/sounds/Nature&Animals_14.mp3"
         },
         {
           "question": "I'm going to go swimming. See you later.",
           "answer": "Bye.",
-          "soundURL": ""
+          "soundURL": "./themaData_4/sounds/Nature&Animals_15.mp3"
         }
       ],
       "youtubeURL": "https://www.youtube.com/playlist?list=PLii5rkhsE0Ld3xCgxG6j5fw7RlG2S5czO"
@@ -112,17 +112,17 @@
         {
           "question": "It's sunny today. I like summer.",
           "answer": "I don't like summer. It's too hot.",
-          "soundURL": ""
+          "soundURL": "./themaData_4/sounds/Nature&Animals_16.mp3"
         },
         {
           "question": "I ______ like summer. It's too hot.",
           "answer": "don't",
-          "soundURL": ""
+          "soundURL": "./themaData_4/sounds/Nature&Animals_17.mp3"
         },
         {
           "question": "I like ________. I love making snowmen.",
           "answer": "winter",
-          "soundURL": ""
+          "soundURL": "./themaData_4/sounds/Nature&Animals_18.mp3"
         }
       ],
       "youtubeURL": "https://www.youtube.com/playlist?list=PLii5rkhsE0Ld3xCgxG6j5fw7RlG2S5czO"

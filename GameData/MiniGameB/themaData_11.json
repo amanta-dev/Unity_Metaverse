@@ -9,16 +9,16 @@
   "lists": [
     {
       "answer": "head",
-      "items": ["hairdresser","head","ears"],
+      "items": ["hair","head","ears"],
       "imageURL": "./themaData_11/images/head.jpg",
       "soundURL": "./themaData_11/sounds/head.mp3",
       "youtubeURL": "https://youtu.be/SUt8q0EKbms"
     },
     {
-      "answer": "hairdresser",
-      "items": ["eyes","nose","hairdresser"],
-      "imageURL": "./themaData_11/images/hairdresser.jpg",
-      "soundURL": "./themaData_11/sounds/hairdresser.mp3",
+      "answer": "hair",
+      "items": ["eyes","nose","hair"],
+      "imageURL": "./themaData_11/images/hair.jpg",
+      "soundURL": "./themaData_11/sounds/hair.mp3",
       "youtubeURL": "https://youtu.be/SUt8q0EKbms"
     },
     {
@@ -65,7 +65,7 @@
     },
     {
       "answer": "neck",
-      "items": ["hairdresser","ears","neck"],
+      "items": ["hair","ears","neck"],
       "imageURL": "./themaData_11/images/neck.jpg",
       "soundURL": "./themaData_11/sounds/neck.mp3",
       "youtubeURL": "https://youtu.be/SUt8q0EKbms"

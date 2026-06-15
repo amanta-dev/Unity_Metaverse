@@ -23,7 +23,7 @@
     },
     {
       "answer": "bicycle",
-      "items": ["carrot","fire truck","bicycle"],
+      "items": ["car","fire truck","bicycle"],
       "imageURL": "./themaData_3/images/bicycle.jpg",
       "soundURL": "./themaData_3/sounds/bicycle.mp3",
       "youtubeURL": "https://youtu.be/lcdWNmvvyew"
@@ -43,10 +43,10 @@
       "youtubeURL": "https://youtu.be/lcdWNmvvyew"
     },
     {
-      "answer": "carrot",
-      "items": ["ship","carrot","spaceship"],
-      "imageURL": "./themaData_3/images/carrot.jpg",
-      "soundURL": "./themaData_3/sounds/carrot.mp3",
+      "answer": "car",
+      "items": ["ship","car","spaceship"],
+      "imageURL": "./themaData_3/images/car.jpg",
+      "soundURL": "./themaData_3/sounds/car.mp3",
       "youtubeURL": "https://youtu.be/lcdWNmvvyew"
     },
     {
