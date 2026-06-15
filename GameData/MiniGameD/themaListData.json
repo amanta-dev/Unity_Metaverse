@@ -13,8 +13,8 @@
       "themaImageURL": "./themaData_1/images/themaBtn.png",
       "themaDataURL": "./themaData_1.json",
       "locked": true, 
-      "lockType": "dev",
-      "isPremium": false
+      "lockType": "premium",
+      "isPremium": true
     },
     {
       "thema": "Fruit & Vegetables",
