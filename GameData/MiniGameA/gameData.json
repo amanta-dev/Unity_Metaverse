@@ -2,107 +2,133 @@
   "lists":[
     {
       "eng":"A",
-      "soundURL":"./gameData/sounds/A.mp3"
+      "soundURL":"./gameData/sounds/A.mp3",
+      "youtubeURL": "https://youtube.com/playlist?list=PLii5rkhsE0LcDfBlM522YW0h9fE2yLH2f&si=41nbPdUW301YPABT"
     },
     {
       "eng":"B",
-      "soundURL":"./gameData/sounds/B.mp3"
+      "soundURL":"./gameData/sounds/B.mp3",
+      "youtubeURL": "https://youtube.com/playlist?list=PLii5rkhsE0LcDfBlM522YW0h9fE2yLH2f&si=41nbPdUW301YPABT"
     },
     {
       "eng":"C",
-      "soundURL":"./gameData/sounds/C.mp3"
+      "soundURL":"./gameData/sounds/C.mp3",
+      "youtubeURL": "https://youtube.com/playlist?list=PLii5rkhsE0LcDfBlM522YW0h9fE2yLH2f&si=41nbPdUW301YPABT"
     },
     {
       "eng":"D",
-      "soundURL":"./gameData/sounds/D.mp3"
+      "soundURL":"./gameData/sounds/D.mp3",
+      "youtubeURL": "https://youtube.com/playlist?list=PLii5rkhsE0LcDfBlM522YW0h9fE2yLH2f&si=41nbPdUW301YPABT"
     },
     {
       "eng":"E",
-      "soundURL":"./gameData/sounds/E.mp3"
+      "soundURL":"./gameData/sounds/E.mp3",
+      "youtubeURL": "https://youtube.com/playlist?list=PLii5rkhsE0LcDfBlM522YW0h9fE2yLH2f&si=41nbPdUW301YPABT"
     },
     {
       "eng":"F",
-      "soundURL":"./gameData/sounds/F.mp3"
+      "soundURL":"./gameData/sounds/F.mp3",
+      "youtubeURL": "https://youtube.com/playlist?list=PLii5rkhsE0LcDfBlM522YW0h9fE2yLH2f&si=41nbPdUW301YPABT"
     },
     {
       "eng":"G",
-      "soundURL":"./gameData/sounds/G.mp3"
+      "soundURL":"./gameData/sounds/G.mp3",
+      "youtubeURL": "https://youtube.com/playlist?list=PLii5rkhsE0LcDfBlM522YW0h9fE2yLH2f&si=41nbPdUW301YPABT"
     },
     {
       "eng":"H",
-      "soundURL":"./gameData/sounds/H.mp3"
+      "soundURL":"./gameData/sounds/H.mp3",
+      "youtubeURL": "https://youtube.com/playlist?list=PLii5rkhsE0LcDfBlM522YW0h9fE2yLH2f&si=41nbPdUW301YPABT"
     },
     {
       "eng":"I",
-      "soundURL":"./gameData/sounds/I.mp3"
+      "soundURL":"./gameData/sounds/I.mp3",
+      "youtubeURL": "https://youtube.com/playlist?list=PLii5rkhsE0LcDfBlM522YW0h9fE2yLH2f&si=41nbPdUW301YPABT"
     },
     {
       "eng":"J",
-      "soundURL":"./gameData/sounds/J.mp3"
+      "soundURL":"./gameData/sounds/J.mp3",
+      "youtubeURL": "https://youtube.com/playlist?list=PLii5rkhsE0LcDfBlM522YW0h9fE2yLH2f&si=41nbPdUW301YPABT"
     },
     {
       "eng":"K",
-      "soundURL":"./gameData/sounds/K.mp3"
+      "soundURL":"./gameData/sounds/K.mp3",
+      "youtubeURL": "https://youtube.com/playlist?list=PLii5rkhsE0LcDfBlM522YW0h9fE2yLH2f&si=41nbPdUW301YPABT"
     },
     {
       "eng":"L",
-      "soundURL":"./gameData/sounds/L.mp3"
+      "soundURL":"./gameData/sounds/L.mp3",
+      "youtubeURL": "https://youtube.com/playlist?list=PLii5rkhsE0LcDfBlM522YW0h9fE2yLH2f&si=41nbPdUW301YPABT"
     },
     {
       "eng":"M",
-      "soundURL":"./gameData/sounds/M.mp3"
+      "soundURL":"./gameData/sounds/M.mp3",
+      "youtubeURL": "https://youtube.com/playlist?list=PLii5rkhsE0LcDfBlM522YW0h9fE2yLH2f&si=41nbPdUW301YPABT"
     },
     {
       "eng":"N",
-      "soundURL":"./gameData/sounds/N.mp3"
+      "soundURL":"./gameData/sounds/N.mp3",
+      "youtubeURL": "https://youtube.com/playlist?list=PLii5rkhsE0LcDfBlM522YW0h9fE2yLH2f&si=41nbPdUW301YPABT"
     },
     {
       "eng":"O",
-      "soundURL":"./gameData/sounds/O.mp3"
+      "soundURL":"./gameData/sounds/O.mp3",
+      "youtubeURL": "https://youtube.com/playlist?list=PLii5rkhsE0LcDfBlM522YW0h9fE2yLH2f&si=41nbPdUW301YPABT"
     },
     {
       "eng":"P",
-      "soundURL":"./gameData/sounds/P.mp3"
+      "soundURL":"./gameData/sounds/P.mp3",
+      "youtubeURL": "https://youtube.com/playlist?list=PLii5rkhsE0LcDfBlM522YW0h9fE2yLH2f&si=41nbPdUW301YPABT"
     },
     {
       "eng":"Q",
-      "soundURL":"./gameData/sounds/Q.mp3"
+      "soundURL":"./gameData/sounds/Q.mp3",
+      "youtubeURL": "https://youtube.com/playlist?list=PLii5rkhsE0LcDfBlM522YW0h9fE2yLH2f&si=41nbPdUW301YPABT"
     },
     {
       "eng":"R",
-      "soundURL":"./gameData/sounds/R.mp3"
+      "soundURL":"./gameData/sounds/R.mp3",
+      "youtubeURL": "https://youtube.com/playlist?list=PLii5rkhsE0LcDfBlM522YW0h9fE2yLH2f&si=41nbPdUW301YPABT"
     },
     {
       "eng":"S",
-      "soundURL":"./gameData/sounds/S.mp3"
+      "soundURL":"./gameData/sounds/S.mp3",
+      "youtubeURL": "https://youtube.com/playlist?list=PLii5rkhsE0LcDfBlM522YW0h9fE2yLH2f&si=41nbPdUW301YPABT"
     },
     {
       "eng":"T",
-      "soundURL":"./gameData/sounds/T.mp3"
+      "soundURL":"./gameData/sounds/T.mp3",
+      "youtubeURL": "https://youtube.com/playlist?list=PLii5rkhsE0LcDfBlM522YW0h9fE2yLH2f&si=41nbPdUW301YPABT"
     },
     {
       "eng":"U",
-      "soundURL":"./gameData/sounds/U.mp3"
+      "soundURL":"./gameData/sounds/U.mp3",
+      "youtubeURL": "https://youtube.com/playlist?list=PLii5rkhsE0LcDfBlM522YW0h9fE2yLH2f&si=41nbPdUW301YPABT"
     },
     {
       "eng":"V",
-      "soundURL":"./gameData/sounds/V.mp3"
+      "soundURL":"./gameData/sounds/V.mp3",
+      "youtubeURL": "https://youtube.com/playlist?list=PLii5rkhsE0LcDfBlM522YW0h9fE2yLH2f&si=41nbPdUW301YPABT"
     },
     {
       "eng":"W",
-      "soundURL":"./gameData/sounds/W.mp3"
+      "soundURL":"./gameData/sounds/W.mp3",
+      "youtubeURL": "https://youtube.com/playlist?list=PLii5rkhsE0LcDfBlM522YW0h9fE2yLH2f&si=41nbPdUW301YPABT"
     },
     {
       "eng":"X",
-      "soundURL":"./gameData/sounds/X.mp3"
+      "soundURL":"./gameData/sounds/X.mp3",
+      "youtubeURL": "https://youtube.com/playlist?list=PLii5rkhsE0LcDfBlM522YW0h9fE2yLH2f&si=41nbPdUW301YPABT"
     },
     {
       "eng":"Y",
-      "soundURL":"./gameData/sounds/Y.mp3"
+      "soundURL":"./gameData/sounds/Y.mp3",
+      "youtubeURL": "https://youtube.com/playlist?list=PLii5rkhsE0LcDfBlM522YW0h9fE2yLH2f&si=41nbPdUW301YPABT"
     },
     {
       "eng":"Z",
-      "soundURL":"./gameData/sounds/Z.mp3"
+      "soundURL":"./gameData/sounds/Z.mp3",
+      "youtubeURL": "https://youtube.com/playlist?list=PLii5rkhsE0LcDfBlM522YW0h9fE2yLH2f&si=41nbPdUW301YPABT"
     }
   ]
 }
